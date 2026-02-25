@@ -1,0 +1,11 @@
+node_modules/
+nul
+*.zip
+Catalog_Images/
+Catalog_Images_Processed/
+Extracted_Images/
+Export_Stitch_HTML/
+Imagenes_Revisar/
+tunnel.txt
+WhatsApp*/
+image_1.txt

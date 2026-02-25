@@ -1,0 +1,75 @@
+[
+  {
+    "corrected_title": "Buzos Algodón",
+    "corrected_description": "Buzos de algodón.",
+    "price_type": "VARIABLE",
+    "base_price": 25000,
+    "variants": [
+      {
+        "condition": "1 al 5",
+        "price": 25000
+      },
+      {
+        "condition": "6 al 10",
+        "price": 25000
+      }
+    ],
+    "image_matches_text": true,
+    "mismatch_reason": "",
+    "original_title": "Buzos algodon",
+    "image_file": "buzos_algodon.png"
+  },
+  {
+    "corrected_title": "Sweater Importados",
+    "corrected_description": "Van hasta un 5xl tejido fino",
+    "price_type": "SINGLE",
+    "base_price": 0,
+    "variants": [],
+    "image_matches_text": true,
+    "mismatch_reason": "",
+    "original_title": "Swetter importados",
+    "image_file": "swetter_importados.png"
+  },
+  {
+    "corrected_title": "Chalecos",
+    "corrected_description": "Chaleco para todas las ocasiones.",
+    "price_type": "VARIABLE",
+    "base_price": 25,
+    "variants": [
+      {
+        "condition": "2 al 5",
+        "price": 25
+      },
+      {
+        "condition": "6 al 12",
+        "price": 25
+      }
+    ],
+    "image_matches_text": true,
+    "mismatch_reason": "",
+    "original_title": "Chalecos",
+    "image_file": "chalecos.png"
+  },
+  {
+    "corrected_title": "Blazer Bengalina y Crepé",
+    "corrected_description": "Blazer disponible en rojo, fucsia, rosa obispo y verde.",
+    "price_type": "SINGLE",
+    "base_price": 23000,
+    "variants": [],
+    "image_matches_text": true,
+    "mismatch_reason": "",
+    "original_title": "Blazer bengalina y crep",
+    "image_file": "blazer_bengalina_y_crep.png"
+  },
+  {
+    "corrected_title": "Maxi Sweater",
+    "corrected_description": "Sweater.",
+    "price_type": "SINGLE",
+    "base_price": 15900,
+    "variants": [],
+    "image_matches_text": true,
+    "mismatch_reason": "",
+    "original_title": "Maxi swetter",
+    "image_file": "maxi_swetter.png"
+  }
+]

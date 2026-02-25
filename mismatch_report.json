@@ -1,0 +1,134 @@
+[
+  {
+    "n": 1,
+    "title": "Short Algodón",
+    "img": "short_algodon.png",
+    "reason": "La imagen muestra una camiseta, no un short."
+  },
+  {
+    "n": 2,
+    "title": "Jogger Bengalina 1 Al 5",
+    "img": "jogger_bengalina_1_al_5.png",
+    "reason": "La imagen muestra una remera tipo polo, no un jogger."
+  },
+  {
+    "n": 3,
+    "title": "Shorts Deportivos",
+    "img": "shorts_deportivos.png",
+    "reason": "La imagen muestra una camiseta, no shorts."
+  },
+  {
+    "n": 4,
+    "title": "Jean Jogger Mom",
+    "img": "jean_jogger_mom.png",
+    "reason": "La imagen muestra una camisa de jean, no un jean jogger."
+  },
+  {
+    "n": 5,
+    "title": "YD 3 En 1 Pantalón",
+    "img": "yd_3_en_1_pantal_n.png",
+    "reason": "La imagen muestra una camisa, no un pantalón."
+  },
+  {
+    "n": 6,
+    "title": "Pantalón Lanilla",
+    "img": "pantal_n_lanilla.png",
+    "reason": "La imagen muestra una camisa, no un pantalón."
+  },
+  {
+    "n": 7,
+    "title": "Pantalón Modal Morley Fibrana",
+    "img": "pantal_n_modal__morley_fibrana.png",
+    "reason": "La imagen muestra un mono corto, no un pantalón."
+  },
+  {
+    "n": 8,
+    "title": "Medias Antideslizantes",
+    "img": "medias_antideslizante.png",
+    "reason": "La imagen muestra una camiseta, no medias."
+  },
+  {
+    "n": 9,
+    "title": "Pantalón Recto Friza",
+    "img": "pantal_n_recto_friza.png",
+    "reason": "La imagen muestra una camisa de manga larga, no un pantalón."
+  },
+  {
+    "n": 10,
+    "title": "Jeans Chupín y Rectos",
+    "img": "jeans_chup_n_y_rectos.png",
+    "reason": "La imagen muestra una camisa de manga larga, no jeans."
+  },
+  {
+    "n": 11,
+    "title": "Jean Oxford y Wid Leg",
+    "img": "jean_oxford_y_wid_leg.png",
+    "reason": "La imagen muestra una camisa de jean, no un jean oxford."
+  },
+  {
+    "n": 12,
+    "title": "Wid Leg",
+    "img": "wid_leg.png",
+    "reason": "La imagen muestra una blusa, no un pantalón."
+  },
+  {
+    "n": 13,
+    "title": "Pantalón Lanilla Morley",
+    "img": "pantal_n_lanilla_morley.png",
+    "reason": "La imagen muestra una remera, no un pantalón."
+  },
+  {
+    "n": 14,
+    "title": "Jogger Gabardina Elastizados Cargo",
+    "img": "jogger_gabardina_elastizados_cargo.png",
+    "reason": "La imagen muestra una camisa polo de manga larga, no un jogger."
+  },
+  {
+    "n": 15,
+    "title": "Shorts Baño",
+    "img": "shorts_ba_o.png",
+    "reason": "La imagen muestra una camisa, no shorts de baño."
+  },
+  {
+    "n": 16,
+    "title": "Shorts Lycra con Cierre en Bolsillo",
+    "img": "shorts_lycra_con_cierre_en_bolsillo.png",
+    "reason": "La imagen muestra una camiseta, no shorts."
+  },
+  {
+    "n": 17,
+    "title": "Pantalón Importado Yd. Bermuda",
+    "img": "pantal_n_importado_yd__bermuda.png",
+    "reason": "La imagen muestra una camisa, no un pantalón."
+  },
+  {
+    "n": 18,
+    "title": "Pantalón Lino",
+    "img": "pantal_n_lino.png",
+    "reason": "La imagen muestra una remera, no un pantalón."
+  },
+  {
+    "n": 19,
+    "title": "Shorts Con Cierre Lycra",
+    "img": "shorts_con_cierre_lycra.png",
+    "reason": "La imagen muestra una remera, no shorts."
+  },
+  {
+    "n": 20,
+    "title": "Seamless Short",
+    "img": "seamless_short.png",
+    "reason": "La imagen muestra una remera de manga larga, no un short."
+  },
+  {
+    "n": 21,
+    "title": "Pant. Bengalina Pitbull",
+    "img": "pant__bengalina_pitbull.png",
+    "reason": "La imagen muestra una camisa de manga larga, no un pantalón."
+  },
+  {
+    "n": 22,
+    "title": "Short Baño",
+    "img": "short_ba_o_1.png",
+    "reason": "La imagen muestra una remera, no un short de baño."
+  }
+]
