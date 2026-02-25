@@ -23,7 +23,7 @@
   {
     "corrected_title": "Sweater Importados",
     "corrected_description": "Van hasta un 5xl tejido fino",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -56,8 +56,8 @@
   {
     "corrected_title": "Chalecos",
     "corrected_description": "Chaleco para todas las ocasiones.",
-    "price_type": "VARIABLE",
-    "base_price": 25,
+    "price_type": "Fixed Price",
+    "base_price": 25000,
     "variants": [
       {
         "condition": "2 al 5",
@@ -94,7 +94,7 @@
   {
     "corrected_title": "Camisola Lino",
     "corrected_description": "Camisola de lino estampada y lisa.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -130,7 +130,7 @@
   {
     "corrected_title": "Saco Abierto",
     "corrected_description": "Saco tejido abierto talle único.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -210,7 +210,7 @@
   {
     "corrected_title": "Corpiños Y Tops Deportivos",
     "corrected_description": "Corpiños deportivos importados.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -246,7 +246,7 @@
   {
     "corrected_title": "Vestido Lino",
     "corrected_description": "Vestido de lino.",
-    "price_type": "VARIABLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [
       {
@@ -308,7 +308,7 @@
   {
     "corrected_title": "Jogger Bengalina 1 Al 5",
     "corrected_description": "Jogger de bengalina elastizada con cierre y bolsillo.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -331,7 +331,7 @@
   {
     "corrected_title": "Jean Mom",
     "corrected_description": "Importado, talles 36 al 44.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -355,7 +355,7 @@
   {
     "corrected_title": "Campera Reversible",
     "corrected_description": "Campera reversible importada en talles 3XL al 6XL, disponible en negro, turquesa y verde.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -367,7 +367,7 @@
   {
     "corrected_title": "Mono Viscoza",
     "corrected_description": "Viscoza",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -379,8 +379,8 @@
   {
     "corrected_title": "Remeras Lacoste",
     "corrected_description": "Varios modelos.",
-    "price_type": "VARIABLE",
-    "base_price": 1,
+    "price_type": "Fixed Price",
+    "base_price": 10000,
     "variants": [
       {
         "condition": "1 al 6",
@@ -396,7 +396,7 @@
   {
     "corrected_title": "Conjunto Lycra",
     "corrected_description": "Conjunto de lycra.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -408,7 +408,7 @@
   {
     "corrected_title": "Remeras Cortas Morley",
     "corrected_description": "Remeras cortas de morley con manga princesa, básicas lisas y estampadas. Consulte por cantidad.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -420,7 +420,7 @@
   {
     "corrected_title": "Seamless",
     "corrected_description": "Seamless 2 x 18",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -444,7 +444,7 @@
   {
     "corrected_title": "Shorts Deportivos",
     "corrected_description": "Shorts deportivos.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -520,7 +520,7 @@
   {
     "corrected_title": "YD 3 En 1 Pantalón",
     "corrected_description": "Verde, gris, camel. Talles 48 al 54.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -531,7 +531,7 @@
   {
     "corrected_title": "Pantalón Pilu",
     "corrected_description": "Pantalón Pilu.",
-    "price_type": "VARIABLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [
       {
@@ -576,7 +576,7 @@
   {
     "corrected_title": "Saco Lanilla",
     "corrected_description": "Varios colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -588,7 +588,7 @@
   {
     "corrected_title": "Camperas Importadas",
     "corrected_description": "Varios modelos disponibles.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -600,7 +600,7 @@
   {
     "corrected_title": "Campera Neopreno",
     "corrected_description": "Campera disponible en talles M hasta 6XL.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -612,7 +612,7 @@
   {
     "corrected_title": "Remera Corta Morley",
     "corrected_description": "Talle único, varios colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -624,7 +624,7 @@
   {
     "corrected_title": "Buzo Gótico Lanilla",
     "corrected_description": "Buzo de lanilla amplio, disponible hasta en 8 o 10 colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -799,7 +799,7 @@
   {
     "corrected_title": "Saco Tricolor",
     "corrected_description": "Talle único",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -811,7 +811,7 @@
   {
     "corrected_title": "Remera Morley",
     "corrected_description": "Talle único va hasta 7.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -834,7 +834,7 @@
   {
     "corrected_title": "Sweater Importado",
     "corrected_description": "Varios modelos y colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -846,7 +846,7 @@
   {
     "corrected_title": "Mono Modal Viscoza",
     "corrected_description": "Curva 8100",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -875,7 +875,7 @@
   {
     "corrected_title": "Wide Leg",
     "corrected_description": "Engomado y jean gris y negro.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -920,8 +920,8 @@
   {
     "corrected_title": "Palazo Lino",
     "corrected_description": "Palazo de lino liso y estampado.",
-    "price_type": "VARIABLE",
-    "base_price": 1,
+    "price_type": "Fixed Price",
+    "base_price": 10000,
     "variants": [
       {
         "condition": "1 al 5",
@@ -941,7 +941,7 @@
   {
     "corrected_title": "Campera Lanilla",
     "corrected_description": "Campera de lanilla.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1014,7 +1014,7 @@
   {
     "corrected_title": "Camisaco",
     "corrected_description": "Camisaco en varios colores, talles amplios 3 y 5.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1026,7 +1026,7 @@
   {
     "corrected_title": "Corte Chino",
     "corrected_description": "Talles del 36 al 44 y del 46 al 60 aumentan por talle.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1107,8 +1107,8 @@
   {
     "corrected_title": "Microfibra",
     "corrected_description": "Prenda de microfibra.",
-    "price_type": "VARIABLE",
-    "base_price": 1,
+    "price_type": "Fixed Price",
+    "base_price": 10000,
     "variants": [
       {
         "condition": "Desde 1 al 5",
@@ -1149,8 +1149,8 @@
   {
     "corrected_title": "Remeras Básicas Morley",
     "corrected_description": "Remera básica de morley.",
-    "price_type": "VARIABLE",
-    "base_price": 1,
+    "price_type": "Fixed Price",
+    "base_price": 10000,
     "variants": [
       {
         "condition": "1 al , 5",
@@ -1234,7 +1234,7 @@
   {
     "corrected_title": "Biker Especial",
     "corrected_description": "Curva 6000",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1246,7 +1246,7 @@
   {
     "corrected_title": "Catsuit y Conjuntos",
     "corrected_description": "Importados en varios colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1303,7 +1303,7 @@
   {
     "corrected_title": "Wid Leg",
     "corrected_description": "Negro, azul, gris nevado hasta talle 54.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1314,7 +1314,7 @@
   {
     "corrected_title": "Rústico Dama",
     "corrected_description": "Disponible del 1 al 5 en rojo, verde, negro, camel y más.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1326,7 +1326,7 @@
   {
     "corrected_title": "Jeans Oxford",
     "corrected_description": "Jeans Oxford.",
-    "price_type": "VARIABLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [
       {
@@ -1364,7 +1364,7 @@
   {
     "corrected_title": "Buzo Peluche",
     "corrected_description": "Talles 3 y 5. Solo blanco.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1417,7 +1417,7 @@
   {
     "corrected_title": "Maxi Remera",
     "corrected_description": "5/6/7",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1429,8 +1429,8 @@
   {
     "corrected_title": "Wide Leg Gabardina",
     "corrected_description": "Pantalón de gabardina.",
-    "price_type": "VARIABLE",
-    "base_price": 2,
+    "price_type": "Fixed Price",
+    "base_price": 20000,
     "variants": [
       {
         "condition": "2 al 5",
@@ -1488,7 +1488,7 @@
   {
     "corrected_title": "Maxi Campera Peluche",
     "corrected_description": "Campera de peluche.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1560,7 +1560,7 @@
   {
     "corrected_title": "Musculosa Sublimada",
     "corrected_description": "Musculosa del talle 2 al 7 con varios estampados.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1572,7 +1572,7 @@
   {
     "corrected_title": "Buzo Peluche Corto",
     "corrected_description": "Buzo de peluche corto.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1605,7 +1605,7 @@
   {
     "corrected_title": "Campera Rompeviento Unisex",
     "corrected_description": "Campera rompeviento unisex en verde y violeta.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1658,7 +1658,7 @@
   {
     "corrected_title": "Calzas Anticelulitis",
     "corrected_description": "Calzas importadas, varios modelos y colores.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1670,7 +1670,7 @@
   {
     "corrected_title": "Pant. Pilu",
     "corrected_description": "Pilu talles 1 al 5 y 6 al 14 y niños",
-    "price_type": "VARIABLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [
       {
@@ -1691,7 +1691,7 @@
   {
     "corrected_title": "Polera Morley",
     "corrected_description": "Polera morley corta a la cintura, lisa y estampada.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1757,7 +1757,7 @@
   {
     "corrected_title": "Campera Bengalina",
     "corrected_description": "Talles: 6/7/8/9/0/12/14",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1769,7 +1769,7 @@
   {
     "corrected_title": "Conjunto Fibrana",
     "corrected_description": "x unidad",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1781,7 +1781,7 @@
   {
     "corrected_title": "Remeras Lurex",
     "corrected_description": "Remera de lurex.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1825,7 +1825,7 @@
   {
     "corrected_title": "Pantalón Importado Yd. Bermuda",
     "corrected_description": "Especial con 3 cierres. Pantalón bermuda o capri curva 48/50/52/54/56.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1836,7 +1836,7 @@
   {
     "corrected_title": "Calzas Sublimada",
     "corrected_description": "Varios estampados del 1 al 8.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1848,7 +1848,7 @@
   {
     "corrected_title": "Campera Microfibra",
     "corrected_description": "M al 3xl",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1860,7 +1860,7 @@
   {
     "corrected_title": "Modal Viscoza",
     "corrected_description": "2/3/4/5/6",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1905,7 +1905,7 @@
   {
     "corrected_title": "Pantalón Lino",
     "corrected_description": "Pantalón de lino. Consultar por curva de talles: negro, verde, tostado.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1916,7 +1916,7 @@
   {
     "corrected_title": "Saco Waffle",
     "corrected_description": "Talle único va hasta un 6.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1928,7 +1928,7 @@
   {
     "corrected_title": "Sudaderas",
     "corrected_description": "Dama s/m/l/xl/xxl",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -1994,7 +1994,7 @@
   {
     "corrected_title": "Simil Cuero De Hombre",
     "corrected_description": "Varios modelos.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2018,7 +2018,7 @@
   {
     "corrected_title": "Buzo Lanilla",
     "corrected_description": "Negro, verde, fucsia, gris, bordo, violeta, rosa.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2030,7 +2030,7 @@
   {
     "corrected_title": "Remeras Algodón",
     "corrected_description": "Remeras de algodón.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2059,7 +2059,7 @@
   {
     "corrected_title": "Jogger Bengalina y Gabardina",
     "corrected_description": "Jogger de bengalina y gabardina.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2071,7 +2071,7 @@
   {
     "corrected_title": "Remeras M Larga",
     "corrected_description": "Remera gamuzada modal, talles 4 al 8.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2095,7 +2095,7 @@
   {
     "corrected_title": "Shorts Con Cierre Lycra",
     "corrected_description": "1 al 6",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2106,7 +2106,7 @@
   {
     "corrected_title": "Capri Con Textura",
     "corrected_description": "Capri importado.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2118,7 +2118,7 @@
   {
     "corrected_title": "Calza Con Transparencia",
     "corrected_description": "Calza importada.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2130,7 +2130,7 @@
   {
     "corrected_title": "Biker",
     "corrected_description": "Biker.",
-    "price_type": "VARIABLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [
       {
@@ -2235,7 +2235,7 @@
   {
     "corrected_title": "Corte Chino Hombre",
     "corrected_description": "Disponible desde el talle 36 al 60. Colores: negro, verde, camel, tostado, bordo, gris.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2247,7 +2247,7 @@
   {
     "corrected_title": "Camisola Vestido",
     "corrected_description": "4/6/8",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2282,7 +2282,7 @@
   {
     "corrected_title": "Kimono Fibrana",
     "corrected_description": "Lisos y estampados.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2294,7 +2294,7 @@
   {
     "corrected_title": "Pant. Bengalina Pitbull",
     "corrected_description": "Pantalón de bengalina Pitbull.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2341,7 +2341,7 @@
   {
     "corrected_title": "Corpiños Deportivos",
     "corrected_description": "Desde",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2388,7 +2388,7 @@
   {
     "corrected_title": "Básicas 1/5",
     "corrected_description": "Morley y modal",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
@@ -2400,7 +2400,7 @@
   {
     "corrected_title": "Sweater Importados",
     "corrected_description": "Con detalles de encaje, brillos y perlas varios.",
-    "price_type": "SINGLE",
+    "price_type": "Fixed Price",
     "base_price": 0,
     "variants": [],
     "image_matches_text": true,
