@@ -17,7 +17,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzos algodon",
-    "image_file": "buzos_algodon.png"
+    "image_file": "buzos_algodon.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzos_algodon.png"
   },
   {
     "corrected_title": "Sweater Importados",
@@ -28,7 +29,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Swetter importados",
-    "image_file": "swetter_importados.png"
+    "image_file": "swetter_importados.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/swetter_importados.png"
   },
   {
     "corrected_title": "Solera Seda Fría",
@@ -48,7 +50,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Solera seda fría",
-    "image_file": "solera_seda_fr_a.png"
+    "image_file": "solera_seda_fr_a.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/solera_seda_fr_a.png"
   },
   {
     "corrected_title": "Chalecos",
@@ -68,7 +71,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Chalecos",
-    "image_file": "chalecos.png"
+    "image_file": "chalecos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/chalecos.png"
   },
   {
     "corrected_title": "Short Fibrana",
@@ -84,7 +88,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Short fibrana",
-    "image_file": "short_fibrana.png"
+    "image_file": "short_fibrana.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_fibrana.png"
   },
   {
     "corrected_title": "Camisola Lino",
@@ -95,7 +100,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisola lino",
-    "image_file": "camisola_lino.png"
+    "image_file": "camisola_lino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisola_lino.png"
   },
   {
     "corrected_title": "Blazer Bengalina y Crepé",
@@ -106,7 +112,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Blazer bengalina y crep",
-    "image_file": "blazer_bengalina_y_crep.png"
+    "image_file": "blazer_bengalina_y_crep.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/blazer_bengalina_y_crep.png"
   },
   {
     "corrected_title": "Wide Leg Y Oxford",
@@ -117,7 +124,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Wid leg y oxford",
-    "image_file": "wid_leg_y_oxford.png"
+    "image_file": "wid_leg_y_oxford.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/wid_leg_y_oxford.png"
   },
   {
     "corrected_title": "Saco Abierto",
@@ -128,7 +136,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "saco abierto",
-    "image_file": "saco_abierto.png"
+    "image_file": "saco_abierto.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/saco_abierto.png"
   },
   {
     "corrected_title": "Maxi Sweater",
@@ -139,7 +148,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Maxi swetter",
-    "image_file": "maxi_swetter.png"
+    "image_file": "maxi_swetter.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/maxi_swetter.png"
   },
   {
     "corrected_title": "Poplin 1 al 14 Adulto y Niño",
@@ -150,7 +160,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Poplin 1 al 14 adulto y niño",
-    "image_file": "poplin_1_al_14_adulto_y_ni_o.png"
+    "image_file": "poplin_1_al_14_adulto_y_ni_o.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/poplin_1_al_14_adulto_y_ni_o.png"
   },
   {
     "corrected_title": "Elephant",
@@ -161,7 +172,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Elephant",
-    "image_file": "elephant.png"
+    "image_file": "elephant.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/elephant.png"
   },
   {
     "corrected_title": "Short Seamless",
@@ -172,7 +184,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Short seamless",
-    "image_file": "short_seamless.png"
+    "image_file": "short_seamless.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_seamless.png"
   },
   {
     "corrected_title": "Short Algodón",
@@ -191,7 +204,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Short algodon",
-    "image_file": "short_algodon.png"
+    "image_file": "short_algodon.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_algodon.png"
   },
   {
     "corrected_title": "Corpiños Y Tops Deportivos",
@@ -202,7 +216,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Corpiños y tops Deportivos",
-    "image_file": "corpi_os_y_tops_deportivos.png"
+    "image_file": "corpi_os_y_tops_deportivos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/corpi_os_y_tops_deportivos.png"
   },
   {
     "corrected_title": "Camisetas Térmicas y Poleras",
@@ -213,7 +228,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisetas termicas y poleras",
-    "image_file": "camisetas_termicas_y_poleras.png"
+    "image_file": "camisetas_termicas_y_poleras.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisetas_termicas_y_poleras.png"
   },
   {
     "corrected_title": "Mon y Wide Leg",
@@ -224,7 +240,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Mon y Win leg",
-    "image_file": "mon_y_win_leg.png"
+    "image_file": "mon_y_win_leg.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/mon_y_win_leg.png"
   },
   {
     "corrected_title": "Vestido Lino",
@@ -240,7 +257,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestido lino",
-    "image_file": "vestido_lino.png"
+    "image_file": "vestido_lino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestido_lino.png"
   },
   {
     "corrected_title": "Ruanas Polar",
@@ -251,7 +269,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Ruanas polar",
-    "image_file": "ruanas_polar.png"
+    "image_file": "ruanas_polar.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/ruanas_polar.png"
   },
   {
     "corrected_title": "Camiseta Argentina",
@@ -271,7 +290,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "camiseta Argentina",
-    "image_file": "camiseta_argentina.png"
+    "image_file": "camiseta_argentina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camiseta_argentina.png"
   },
   {
     "corrected_title": "Jogger Gabardina y Bengalina",
@@ -282,7 +302,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jogger gabardina y bengalina",
-    "image_file": "jogger_gabardina_y_bengalina.png"
+    "image_file": "jogger_gabardina_y_bengalina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jogger_gabardina_y_bengalina.png"
   },
   {
     "corrected_title": "Jogger Bengalina 1 Al 5",
@@ -292,7 +313,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Jogger bengalina 1 al 5",
-    "image_file": "jogger_bengalina_1_al_5.png"
+    "image_file": "jogger_bengalina_1_al_5.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jogger_bengalina_1_al_5.png"
   },
   {
     "corrected_title": "Vestido Fibrana Especial",
@@ -303,7 +325,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestido fibrana especial",
-    "image_file": "vestido_fibrana_especial.png"
+    "image_file": "vestido_fibrana_especial.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestido_fibrana_especial.png"
   },
   {
     "corrected_title": "Jean Mom",
@@ -314,7 +337,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jean Mom",
-    "image_file": "jean_mom.png"
+    "image_file": "jean_mom.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jean_mom.png"
   },
   {
     "corrected_title": "Conjunto",
@@ -325,7 +349,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto",
-    "image_file": "conjunto.png"
+    "image_file": "conjunto.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto.png"
   },
   {
     "corrected_title": "Campera Reversible",
@@ -336,7 +361,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera Reversible",
-    "image_file": "campera_reversible.png"
+    "image_file": "campera_reversible.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_reversible.png"
   },
   {
     "corrected_title": "Mono Viscoza",
@@ -347,7 +373,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Mono viscoza",
-    "image_file": "mono_viscoza.png"
+    "image_file": "mono_viscoza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/mono_viscoza.png"
   },
   {
     "corrected_title": "Remeras Lacoste",
@@ -363,7 +390,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras lacost",
-    "image_file": "remeras_lacost.png"
+    "image_file": "remeras_lacost.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_lacost.png"
   },
   {
     "corrected_title": "Conjunto Lycra",
@@ -374,7 +402,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto lycra",
-    "image_file": "conjunto_lycra.png"
+    "image_file": "conjunto_lycra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_lycra.png"
   },
   {
     "corrected_title": "Remeras Cortas Morley",
@@ -385,7 +414,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras cortas morley",
-    "image_file": "remeras_cortas_morley.png"
+    "image_file": "remeras_cortas_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_cortas_morley.png"
   },
   {
     "corrected_title": "Seamless",
@@ -396,7 +426,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "seamless",
-    "image_file": "seamless.png"
+    "image_file": "seamless.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/seamless.png"
   },
   {
     "corrected_title": "Jogger Algodón Rústico",
@@ -407,7 +438,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jogger algodon rustico",
-    "image_file": "jogger_algodon_rustico.png"
+    "image_file": "jogger_algodon_rustico.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jogger_algodon_rustico.png"
   },
   {
     "corrected_title": "Shorts Deportivos",
@@ -417,7 +449,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Shorts deportivos",
-    "image_file": "shorts_deportivos.png"
+    "image_file": "shorts_deportivos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/shorts_deportivos.png"
   },
   {
     "corrected_title": "Conjuntos Seamless",
@@ -428,7 +461,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjuntos Seamless",
-    "image_file": "conjuntos_seamless.png"
+    "image_file": "conjuntos_seamless.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjuntos_seamless.png"
   },
   {
     "corrected_title": "Remeras",
@@ -439,7 +473,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras",
-    "image_file": "remeras.png"
+    "image_file": "remeras.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras.png"
   },
   {
     "corrected_title": "Jean Jogger Mom",
@@ -458,7 +493,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Jean jogger Mom",
-    "image_file": "jean_jogger_mom.png"
+    "image_file": "jean_jogger_mom.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jean_jogger_mom.png"
   },
   {
     "corrected_title": "Campera Engomada Elastizada",
@@ -478,7 +514,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera engomada elastizada",
-    "image_file": "campera_engomada_elastizada.png"
+    "image_file": "campera_engomada_elastizada.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_engomada_elastizada.png"
   },
   {
     "corrected_title": "YD 3 En 1 Pantalón",
@@ -488,7 +525,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "YD 3 en 1 pantalón",
-    "image_file": "yd_3_en_1_pantal_n.png"
+    "image_file": "yd_3_en_1_pantal_n.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/yd_3_en_1_pantal_n.png"
   },
   {
     "corrected_title": "Pantalón Pilu",
@@ -508,7 +546,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pantalón Pilu",
-    "image_file": "pantal_n_pilu.png"
+    "image_file": "pantal_n_pilu.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_pilu.png"
   },
   {
     "corrected_title": "Pitbull Bengalina",
@@ -519,7 +558,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pitbull bengalina",
-    "image_file": "pitbull_bengalina.png"
+    "image_file": "pitbull_bengalina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pitbull_bengalina.png"
   },
   {
     "corrected_title": "Kimono Encaje",
@@ -530,7 +570,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Kimono encaje",
-    "image_file": "kimono_encaje.png"
+    "image_file": "kimono_encaje.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/kimono_encaje.png"
   },
   {
     "corrected_title": "Saco Lanilla",
@@ -541,7 +582,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Saco Lanilla",
-    "image_file": "saco_lanilla.png"
+    "image_file": "saco_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/saco_lanilla.png"
   },
   {
     "corrected_title": "Camperas Importadas",
@@ -552,7 +594,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camperas importadas",
-    "image_file": "camperas_importadas.png"
+    "image_file": "camperas_importadas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camperas_importadas.png"
   },
   {
     "corrected_title": "Campera Neopreno",
@@ -563,7 +606,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera Neopren",
-    "image_file": "campera_neopren.png"
+    "image_file": "campera_neopren.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_neopren.png"
   },
   {
     "corrected_title": "Remera Corta Morley",
@@ -574,7 +618,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remera corta morley",
-    "image_file": "remera_corta_morley.png"
+    "image_file": "remera_corta_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remera_corta_morley.png"
   },
   {
     "corrected_title": "Buzo Gótico Lanilla",
@@ -585,7 +630,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzo Gótico Lanilla",
-    "image_file": "buzo_g_tico_lanilla.png"
+    "image_file": "buzo_g_tico_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzo_g_tico_lanilla.png"
   },
   {
     "corrected_title": "Conjunto Anticelulitis",
@@ -596,7 +642,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto anticelulitis",
-    "image_file": "conjunto_anticelulitis.png"
+    "image_file": "conjunto_anticelulitis.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_anticelulitis.png"
   },
   {
     "corrected_title": "Pantalón Lanilla",
@@ -611,7 +658,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Pantalón lanilla",
-    "image_file": "pantal_n_lanilla.png"
+    "image_file": "pantal_n_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_lanilla.png"
   },
   {
     "corrected_title": "Campera Con Piel",
@@ -635,7 +683,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera con piel",
-    "image_file": "campera_con_piel.png"
+    "image_file": "campera_con_piel.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_con_piel.png"
   },
   {
     "corrected_title": "Calzas Sublimadas Importadas",
@@ -646,7 +695,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Calzas Sublimadas importadas",
-    "image_file": "calzas_sublimadas_importadas.png"
+    "image_file": "calzas_sublimadas_importadas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/calzas_sublimadas_importadas.png"
   },
   {
     "corrected_title": "Remeras Varios Modelos",
@@ -657,7 +707,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras Varios modelos",
-    "image_file": "remeras_varios_modelos.png"
+    "image_file": "remeras_varios_modelos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_varios_modelos.png"
   },
   {
     "corrected_title": "Pantalón Modal Morley Fibrana",
@@ -676,7 +727,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Pantalón Modal .Morley Fibrana",
-    "image_file": "pantal_n_modal__morley_fibrana.png"
+    "image_file": "pantal_n_modal__morley_fibrana.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_modal__morley_fibrana.png"
   },
   {
     "corrected_title": "Sudaderas",
@@ -687,7 +739,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Sudaderas",
-    "image_file": "sudaderas.png"
+    "image_file": "sudaderas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/sudaderas.png"
   },
   {
     "corrected_title": "Biker",
@@ -707,7 +760,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Biker",
-    "image_file": "biker.png"
+    "image_file": "biker.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/biker.png"
   },
   {
     "corrected_title": "Superpuesta Lanilla",
@@ -718,7 +772,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Superpuesta lanilla",
-    "image_file": "superpuesta_lanilla.png"
+    "image_file": "superpuesta_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/superpuesta_lanilla.png"
   },
   {
     "corrected_title": "Palazos y Pantalón Morley",
@@ -738,7 +793,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Palazos y pantalon morley",
-    "image_file": "palazos_y_pantalon_morley.png"
+    "image_file": "palazos_y_pantalon_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/palazos_y_pantalon_morley.png"
   },
   {
     "corrected_title": "Saco Tricolor",
@@ -749,7 +805,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Saco tricolor",
-    "image_file": "saco_tricolor.png"
+    "image_file": "saco_tricolor.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/saco_tricolor.png"
   },
   {
     "corrected_title": "Remera Morley",
@@ -760,7 +817,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remera morley",
-    "image_file": "remera_morley.png"
+    "image_file": "remera_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remera_morley.png"
   },
   {
     "corrected_title": "Medias Antideslizantes",
@@ -770,7 +828,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Medias antideslizante",
-    "image_file": "medias_antideslizante.png"
+    "image_file": "medias_antideslizante.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/medias_antideslizante.png"
   },
   {
     "corrected_title": "Sweater Importado",
@@ -781,7 +840,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Swetter importado",
-    "image_file": "swetter_importado.png"
+    "image_file": "swetter_importado.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/swetter_importado.png"
   },
   {
     "corrected_title": "Mono Modal Viscoza",
@@ -792,7 +852,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Mono modal viscoza",
-    "image_file": "mono_modal_viscoza.png"
+    "image_file": "mono_modal_viscoza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/mono_modal_viscoza.png"
   },
   {
     "corrected_title": "Babuchas Morley",
@@ -808,7 +869,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Babuchas morley",
-    "image_file": "babuchas_morley.png"
+    "image_file": "babuchas_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/babuchas_morley.png"
   },
   {
     "corrected_title": "Wide Leg",
@@ -819,7 +881,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Win leg",
-    "image_file": "win_leg.png"
+    "image_file": "win_leg.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/win_leg.png"
   },
   {
     "corrected_title": "Monm Jogger Jean",
@@ -839,7 +902,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Monm jogger jean",
-    "image_file": "monm_jogger_jean.png"
+    "image_file": "monm_jogger_jean.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/monm_jogger_jean.png"
   },
   {
     "corrected_title": "Vestido Con Lazo",
@@ -850,7 +914,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestido con lazo",
-    "image_file": "vestido_con_lazo.png"
+    "image_file": "vestido_con_lazo.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestido_con_lazo.png"
   },
   {
     "corrected_title": "Palazo Lino",
@@ -870,7 +935,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Palazo Lino",
-    "image_file": "palazo_lino.png"
+    "image_file": "palazo_lino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/palazo_lino.png"
   },
   {
     "corrected_title": "Campera Lanilla",
@@ -881,7 +947,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera lanilla",
-    "image_file": "campera_lanilla.png"
+    "image_file": "campera_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_lanilla.png"
   },
   {
     "corrected_title": "Remeras Algodón N",
@@ -905,7 +972,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras algodon n",
-    "image_file": "remeras_algodon_n.png"
+    "image_file": "remeras_algodon_n.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_algodon_n.png"
   },
   {
     "corrected_title": "Pantalón Recto Friza",
@@ -928,7 +996,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Pantalón recto friza",
-    "image_file": "pantal_n_recto_friza.png"
+    "image_file": "pantal_n_recto_friza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_recto_friza.png"
   },
   {
     "corrected_title": "Térmica Deportiva",
@@ -939,7 +1008,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Térmica deportiva",
-    "image_file": "t_rmica_deportiva.png"
+    "image_file": "t_rmica_deportiva.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/t_rmica_deportiva.png"
   },
   {
     "corrected_title": "Camisaco",
@@ -950,7 +1020,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisaco",
-    "image_file": "camisaco.png"
+    "image_file": "camisaco.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisaco.png"
   },
   {
     "corrected_title": "Corte Chino",
@@ -961,7 +1032,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Corte chino",
-    "image_file": "corte_chino.png"
+    "image_file": "corte_chino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/corte_chino.png"
   },
   {
     "corrected_title": "Conjunto Top y Short",
@@ -972,7 +1044,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto top y short",
-    "image_file": "conjunto_top_y_short.png"
+    "image_file": "conjunto_top_y_short.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_top_y_short.png"
   },
   {
     "corrected_title": "Camisola Lino",
@@ -983,7 +1056,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisola lino",
-    "image_file": "camisola_lino_1.png"
+    "image_file": "camisola_lino_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisola_lino_1.png"
   },
   {
     "corrected_title": "Remeras Algodón",
@@ -994,7 +1068,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras algodon",
-    "image_file": "remeras_algodon.png"
+    "image_file": "remeras_algodon.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_algodon.png"
   },
   {
     "corrected_title": "Pilu Niño",
@@ -1005,7 +1080,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pilu niño",
-    "image_file": "pilu_ni_o.png"
+    "image_file": "pilu_ni_o.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pilu_ni_o.png"
   },
   {
     "corrected_title": "Remeras Lanilla",
@@ -1025,7 +1101,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras lanilla",
-    "image_file": "remeras_lanilla.png"
+    "image_file": "remeras_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_lanilla.png"
   },
   {
     "corrected_title": "Microfibra",
@@ -1045,7 +1122,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Microfibra",
-    "image_file": "microfibra.png"
+    "image_file": "microfibra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/microfibra.png"
   },
   {
     "corrected_title": "Campera Engomada",
@@ -1065,7 +1143,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera engomada",
-    "image_file": "campera_engomada.png"
+    "image_file": "campera_engomada.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_engomada.png"
   },
   {
     "corrected_title": "Remeras Básicas Morley",
@@ -1081,7 +1160,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras básicas morley",
-    "image_file": "remeras_b_sicas_morley.png"
+    "image_file": "remeras_b_sicas_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_b_sicas_morley.png"
   },
   {
     "corrected_title": "Jeans Chupín y Rectos",
@@ -1091,7 +1171,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Jeans chupín y rectos",
-    "image_file": "jeans_chup_n_y_rectos.png"
+    "image_file": "jeans_chup_n_y_rectos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jeans_chup_n_y_rectos.png"
   },
   {
     "corrected_title": "Jean Oxford y Wid Leg",
@@ -1110,7 +1191,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Jean Oxford y Wid leg",
-    "image_file": "jean_oxford_y_wid_leg.png"
+    "image_file": "jean_oxford_y_wid_leg.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jean_oxford_y_wid_leg.png"
   },
   {
     "corrected_title": "Jeans Mom y Elephant",
@@ -1121,7 +1203,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jeans Mom y Elephant",
-    "image_file": "jeans_mom_y_elephant.png"
+    "image_file": "jeans_mom_y_elephant.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jeans_mom_y_elephant.png"
   },
   {
     "corrected_title": "Remeras Lisas",
@@ -1145,7 +1228,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras lisas",
-    "image_file": "remeras_lisas.png"
+    "image_file": "remeras_lisas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_lisas.png"
   },
   {
     "corrected_title": "Biker Especial",
@@ -1156,7 +1240,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Biker especial",
-    "image_file": "biker_especial.png"
+    "image_file": "biker_especial.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/biker_especial.png"
   },
   {
     "corrected_title": "Catsuit y Conjuntos",
@@ -1167,7 +1252,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Catsuit y conjuntos",
-    "image_file": "catsuit_y_conjuntos.png"
+    "image_file": "catsuit_y_conjuntos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/catsuit_y_conjuntos.png"
   },
   {
     "corrected_title": "Short Baño",
@@ -1187,7 +1273,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Short Baño",
-    "image_file": "short_ba_o.png"
+    "image_file": "short_ba_o.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_ba_o.png"
   },
   {
     "corrected_title": "Deportivo Lycra",
@@ -1198,7 +1285,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Deportivo lycra",
-    "image_file": "deportivo_lycra.png"
+    "image_file": "deportivo_lycra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/deportivo_lycra.png"
   },
   {
     "corrected_title": "Niño Ofertas",
@@ -1209,7 +1297,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Niño ofertas",
-    "image_file": "ni_o_ofertas.png"
+    "image_file": "ni_o_ofertas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/ni_o_ofertas.png"
   },
   {
     "corrected_title": "Wid Leg",
@@ -1219,7 +1308,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Wid leg",
-    "image_file": "wid_leg.png"
+    "image_file": "wid_leg.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/wid_leg.png"
   },
   {
     "corrected_title": "Rústico Dama",
@@ -1230,7 +1320,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Rústico Dama",
-    "image_file": "r_stico_dama.png"
+    "image_file": "r_stico_dama.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/r_stico_dama.png"
   },
   {
     "corrected_title": "Jeans Oxford",
@@ -1246,7 +1337,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jeans Oxford",
-    "image_file": "jeans_oxford.png"
+    "image_file": "jeans_oxford.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jeans_oxford.png"
   },
   {
     "corrected_title": "Corte Chino Elastizado",
@@ -1266,7 +1358,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Corte Chino elastizado",
-    "image_file": "corte_chino_elastizado.png"
+    "image_file": "corte_chino_elastizado.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/corte_chino_elastizado.png"
   },
   {
     "corrected_title": "Buzo Peluche",
@@ -1277,7 +1370,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzo peluche",
-    "image_file": "buzo_peluche.png"
+    "image_file": "buzo_peluche.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzo_peluche.png"
   },
   {
     "corrected_title": "Musculosa Drifit",
@@ -1288,7 +1382,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Musculosa drifit",
-    "image_file": "musculosa_drifit.png"
+    "image_file": "musculosa_drifit.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/musculosa_drifit.png"
   },
   {
     "corrected_title": "Animal Print",
@@ -1304,7 +1399,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Animal print",
-    "image_file": "animal_print.png"
+    "image_file": "animal_print.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/animal_print.png"
   },
   {
     "corrected_title": "Pantalón Engomado",
@@ -1315,7 +1411,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pantalón Engomado",
-    "image_file": "pantal_n_engomado.png"
+    "image_file": "pantal_n_engomado.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_engomado.png"
   },
   {
     "corrected_title": "Maxi Remera",
@@ -1326,7 +1423,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Maxi remera",
-    "image_file": "maxi_remera.png"
+    "image_file": "maxi_remera.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/maxi_remera.png"
   },
   {
     "corrected_title": "Wide Leg Gabardina",
@@ -1342,7 +1440,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Win leg gabardina",
-    "image_file": "win_leg_gabardina.png"
+    "image_file": "win_leg_gabardina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/win_leg_gabardina.png"
   },
   {
     "corrected_title": "Poleras Modal",
@@ -1358,7 +1457,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Poleras modal",
-    "image_file": "poleras_modal.png"
+    "image_file": "poleras_modal.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/poleras_modal.png"
   },
   {
     "corrected_title": "Campera Jean Especial",
@@ -1382,7 +1482,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera jean especial",
-    "image_file": "campera_jean_especial.png"
+    "image_file": "campera_jean_especial.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_jean_especial.png"
   },
   {
     "corrected_title": "Maxi Campera Peluche",
@@ -1393,7 +1494,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Maxi Campera peluche",
-    "image_file": "maxi_campera_peluche.png"
+    "image_file": "maxi_campera_peluche.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/maxi_campera_peluche.png"
   },
   {
     "corrected_title": "Pantalón Lanilla Morley",
@@ -1403,7 +1505,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Pantalón lanilla Morley",
-    "image_file": "pantal_n_lanilla_morley.png"
+    "image_file": "pantal_n_lanilla_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_lanilla_morley.png"
   },
   {
     "corrected_title": "Jogger Gabardina Elastizados Cargo",
@@ -1418,7 +1521,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Jogger gabardina elastizados Cargo",
-    "image_file": "jogger_gabardina_elastizados_cargo.png"
+    "image_file": "jogger_gabardina_elastizados_cargo.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jogger_gabardina_elastizados_cargo.png"
   },
   {
     "corrected_title": "Conjunto Importado",
@@ -1429,7 +1533,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto importado",
-    "image_file": "conjunto_importado.png"
+    "image_file": "conjunto_importado.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_importado.png"
   },
   {
     "corrected_title": "Tiro Fino",
@@ -1449,7 +1554,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Tiro fino",
-    "image_file": "tiro_fino.png"
+    "image_file": "tiro_fino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/tiro_fino.png"
   },
   {
     "corrected_title": "Musculosa Sublimada",
@@ -1460,7 +1566,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Musculosa sublimada",
-    "image_file": "musculosa_sublimada.png"
+    "image_file": "musculosa_sublimada.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/musculosa_sublimada.png"
   },
   {
     "corrected_title": "Buzo Peluche Corto",
@@ -1471,7 +1578,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzo peluche corto",
-    "image_file": "buzo_peluche_corto.png"
+    "image_file": "buzo_peluche_corto.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzo_peluche_corto.png"
   },
   {
     "corrected_title": "Babucha Rústica y Friza",
@@ -1491,7 +1599,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Babucha rustica y friza",
-    "image_file": "babucha_rustica_y_friza.png"
+    "image_file": "babucha_rustica_y_friza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/babucha_rustica_y_friza.png"
   },
   {
     "corrected_title": "Campera Rompeviento Unisex",
@@ -1502,7 +1611,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera rompeviento unisex",
-    "image_file": "campera_rompeviento_unisex.png"
+    "image_file": "campera_rompeviento_unisex.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_rompeviento_unisex.png"
   },
   {
     "corrected_title": "Shorts Baño",
@@ -1521,7 +1631,8 @@
     ],
     "image_matches_text": true,
     "original_title": "Shorts Baño",
-    "image_file": "shorts_ba_o.png"
+    "image_file": "shorts_ba_o.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/shorts_ba_o.png"
   },
   {
     "corrected_title": "Biker Liso",
@@ -1541,7 +1652,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Biker liso",
-    "image_file": "biker_liso_1.png"
+    "image_file": "biker_liso_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/biker_liso_1.png"
   },
   {
     "corrected_title": "Calzas Anticelulitis",
@@ -1552,7 +1664,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Calzas anticelulitis",
-    "image_file": "calzas_anticelulitis.png"
+    "image_file": "calzas_anticelulitis.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/calzas_anticelulitis.png"
   },
   {
     "corrected_title": "Pant. Pilu",
@@ -1572,7 +1685,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pant.Pilu",
-    "image_file": "pant_pilu.png"
+    "image_file": "pant_pilu.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pant_pilu.png"
   },
   {
     "corrected_title": "Polera Morley",
@@ -1583,7 +1697,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Polera Morley",
-    "image_file": "polera_morley.png"
+    "image_file": "polera_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/polera_morley.png"
   },
   {
     "corrected_title": "Conjunto Importado",
@@ -1594,7 +1709,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto importado",
-    "image_file": "conjunto_importado_1.png"
+    "image_file": "conjunto_importado_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_importado_1.png"
   },
   {
     "corrected_title": "Remeras Morley",
@@ -1614,7 +1730,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras morley",
-    "image_file": "remeras_morley.png"
+    "image_file": "remeras_morley.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_morley.png"
   },
   {
     "corrected_title": "Pantalón Náutico",
@@ -1634,7 +1751,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Pantalón Náutico",
-    "image_file": "pantal_n_n_utico.png"
+    "image_file": "pantal_n_n_utico.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_n_utico.png"
   },
   {
     "corrected_title": "Campera Bengalina",
@@ -1645,7 +1763,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera bengalina",
-    "image_file": "campera_bengalina.png"
+    "image_file": "campera_bengalina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_bengalina.png"
   },
   {
     "corrected_title": "Conjunto Fibrana",
@@ -1656,7 +1775,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto fibrana",
-    "image_file": "conjunto_fibrana.png"
+    "image_file": "conjunto_fibrana.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_fibrana.png"
   },
   {
     "corrected_title": "Remeras Lurex",
@@ -1667,7 +1787,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras lurex",
-    "image_file": "remeras_lurex.png"
+    "image_file": "remeras_lurex.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_lurex.png"
   },
   {
     "corrected_title": "Campera Símil Cuero por Docena",
@@ -1687,7 +1808,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera Símil cuero x docena",
-    "image_file": "campera_s_mil_cuero_x_docena.png"
+    "image_file": "campera_s_mil_cuero_x_docena.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_s_mil_cuero_x_docena.png"
   },
   {
     "corrected_title": "Shorts Lycra con Cierre en Bolsillo",
@@ -1697,7 +1819,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Shorts lycra con cierre en bolsillo",
-    "image_file": "shorts_lycra_con_cierre_en_bolsillo.png"
+    "image_file": "shorts_lycra_con_cierre_en_bolsillo.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/shorts_lycra_con_cierre_en_bolsillo.png"
   },
   {
     "corrected_title": "Pantalón Importado Yd. Bermuda",
@@ -1707,7 +1830,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Pantalón importado Yd. Bermuda",
-    "image_file": "pantal_n_importado_yd__bermuda.png"
+    "image_file": "pantal_n_importado_yd__bermuda.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_importado_yd__bermuda.png"
   },
   {
     "corrected_title": "Calzas Sublimada",
@@ -1718,7 +1842,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Calzas sublimada",
-    "image_file": "calzas_sublimada.png"
+    "image_file": "calzas_sublimada.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/calzas_sublimada.png"
   },
   {
     "corrected_title": "Campera Microfibra",
@@ -1729,7 +1854,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera microfibra",
-    "image_file": "campera_microfibra.png"
+    "image_file": "campera_microfibra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_microfibra.png"
   },
   {
     "corrected_title": "Modal Viscoza",
@@ -1740,7 +1866,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Modal viscoza",
-    "image_file": "modal_viscoza.png"
+    "image_file": "modal_viscoza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/modal_viscoza.png"
   },
   {
     "corrected_title": "Camisetas Térmicas",
@@ -1751,7 +1878,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisetas termicas",
-    "image_file": "camisetas_termicas.png"
+    "image_file": "camisetas_termicas.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisetas_termicas.png"
   },
   {
     "corrected_title": "Musculosa Hombre 1 Al 10",
@@ -1771,7 +1899,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Musculosa hombre 1 al 10",
-    "image_file": "musculosa_hombre_1_al_10.png"
+    "image_file": "musculosa_hombre_1_al_10.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/musculosa_hombre_1_al_10.png"
   },
   {
     "corrected_title": "Pantalón Lino",
@@ -1781,7 +1910,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Pantalón lino",
-    "image_file": "pantal_n_lino.png"
+    "image_file": "pantal_n_lino.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pantal_n_lino.png"
   },
   {
     "corrected_title": "Saco Waffle",
@@ -1792,7 +1922,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Saco Wafle",
-    "image_file": "saco_wafle.png"
+    "image_file": "saco_wafle.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/saco_wafle.png"
   },
   {
     "corrected_title": "Sudaderas",
@@ -1803,7 +1934,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Sudaderas",
-    "image_file": "sudaderas_1.png"
+    "image_file": "sudaderas_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/sudaderas_1.png"
   },
   {
     "corrected_title": "Camperas De Jean",
@@ -1819,7 +1951,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camperas de jean",
-    "image_file": "camperas_de_jean.png"
+    "image_file": "camperas_de_jean.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camperas_de_jean.png"
   },
   {
     "corrected_title": "Calzas Frizadas y Sin Friza",
@@ -1843,7 +1976,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Calzas frizadasy sin friza",
-    "image_file": "calzas_frizadasy_sin_friza.png"
+    "image_file": "calzas_frizadasy_sin_friza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/calzas_frizadasy_sin_friza.png"
   },
   {
     "corrected_title": "Campera Simil Cuero",
@@ -1854,7 +1988,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Campera simil cuero",
-    "image_file": "campera_simil_cuero.png"
+    "image_file": "campera_simil_cuero.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/campera_simil_cuero.png"
   },
   {
     "corrected_title": "Simil Cuero De Hombre",
@@ -1865,7 +2000,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Simil cuero de hombre",
-    "image_file": "simil_cuero_de_hombre.png"
+    "image_file": "simil_cuero_de_hombre.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/simil_cuero_de_hombre.png"
   },
   {
     "corrected_title": "Neopreno",
@@ -1876,7 +2012,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Neoprem",
-    "image_file": "neoprem.png"
+    "image_file": "neoprem.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/neoprem.png"
   },
   {
     "corrected_title": "Buzo Lanilla",
@@ -1887,7 +2024,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzo lanilla",
-    "image_file": "buzo_lanilla.png"
+    "image_file": "buzo_lanilla.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzo_lanilla.png"
   },
   {
     "corrected_title": "Remeras Algodón",
@@ -1898,7 +2036,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras algodon",
-    "image_file": "remeras_algodon_1.png"
+    "image_file": "remeras_algodon_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_algodon_1.png"
   },
   {
     "corrected_title": "Saco Waffle y Tejido",
@@ -1914,7 +2053,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Saco Wafle y tejido",
-    "image_file": "saco_wafle_y_tejido.png"
+    "image_file": "saco_wafle_y_tejido.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/saco_wafle_y_tejido.png"
   },
   {
     "corrected_title": "Jogger Bengalina y Gabardina",
@@ -1925,7 +2065,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Jogger bengalina y gabardina",
-    "image_file": "jogger_bengalina_y_gabardina.png"
+    "image_file": "jogger_bengalina_y_gabardina.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/jogger_bengalina_y_gabardina.png"
   },
   {
     "corrected_title": "Remeras M Larga",
@@ -1936,7 +2077,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Remeras m larga",
-    "image_file": "remeras_m_larga.png"
+    "image_file": "remeras_m_larga.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/remeras_m_larga.png"
   },
   {
     "corrected_title": "Kimono Encaje",
@@ -1947,7 +2089,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Kimono encaje",
-    "image_file": "kimono_encaje_1.png"
+    "image_file": "kimono_encaje_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/kimono_encaje_1.png"
   },
   {
     "corrected_title": "Shorts Con Cierre Lycra",
@@ -1957,7 +2100,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Shorts con cierre Lycra",
-    "image_file": "shorts_con_cierre_lycra.png"
+    "image_file": "shorts_con_cierre_lycra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/shorts_con_cierre_lycra.png"
   },
   {
     "corrected_title": "Capri Con Textura",
@@ -1968,7 +2112,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Capri con textura",
-    "image_file": "capri_con_textura.png"
+    "image_file": "capri_con_textura.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/capri_con_textura.png"
   },
   {
     "corrected_title": "Calza Con Transparencia",
@@ -1979,7 +2124,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Calza con transparencia",
-    "image_file": "calza_con_transparencia.png"
+    "image_file": "calza_con_transparencia.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/calza_con_transparencia.png"
   },
   {
     "corrected_title": "Biker",
@@ -1999,7 +2145,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Biker",
-    "image_file": "biker_1.png"
+    "image_file": "biker_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/biker_1.png"
   },
   {
     "corrected_title": "Crop Túnico Musculosa",
@@ -2010,7 +2157,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Crop t único musculosa",
-    "image_file": "crop_t__nico_musculosa.png"
+    "image_file": "crop_t__nico_musculosa.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/crop_t__nico_musculosa.png"
   },
   {
     "corrected_title": "Seamless",
@@ -2021,7 +2169,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Seamless",
-    "image_file": "seamless_1.png"
+    "image_file": "seamless_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/seamless_1.png"
   },
   {
     "corrected_title": "Palazzo Crepé / Set Modal",
@@ -2032,7 +2181,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Palazzos Crep / Set modal",
-    "image_file": "palazzos_crep___set_modal.png"
+    "image_file": "palazzos_crep___set_modal.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/palazzos_crep___set_modal.png"
   },
   {
     "corrected_title": "Neopreno",
@@ -2043,7 +2193,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Neopren",
-    "image_file": "neopren.png"
+    "image_file": "neopren.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/neopren.png"
   },
   {
     "corrected_title": "Palazzo Rústico",
@@ -2054,7 +2205,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Palazos rustico",
-    "image_file": "palazos_rustico.png"
+    "image_file": "palazos_rustico.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/palazos_rustico.png"
   },
   {
     "corrected_title": "Palazos",
@@ -2065,7 +2217,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Palazos",
-    "image_file": "palazos.png"
+    "image_file": "palazos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/palazos.png"
   },
   {
     "corrected_title": "Oferta Con Friza",
@@ -2076,7 +2229,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Oferta con friza",
-    "image_file": "oferta_con_friza.png"
+    "image_file": "oferta_con_friza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/oferta_con_friza.png"
   },
   {
     "corrected_title": "Corte Chino Hombre",
@@ -2087,7 +2241,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Corte chino hombre",
-    "image_file": "corte_chino_hombre.png"
+    "image_file": "corte_chino_hombre.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/corte_chino_hombre.png"
   },
   {
     "corrected_title": "Camisola Vestido",
@@ -2098,7 +2253,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisola vestido",
-    "image_file": "camisola_vestido.png"
+    "image_file": "camisola_vestido.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisola_vestido.png"
   },
   {
     "corrected_title": "Seamless Larga",
@@ -2109,7 +2265,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Seamless larga",
-    "image_file": "seamless_larga.png"
+    "image_file": "seamless_larga.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/seamless_larga.png"
   },
   {
     "corrected_title": "Seamless Short",
@@ -2119,7 +2276,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Seamless short",
-    "image_file": "seamless_short.png"
+    "image_file": "seamless_short.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/seamless_short.png"
   },
   {
     "corrected_title": "Kimono Fibrana",
@@ -2130,7 +2288,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Kimono fibrana",
-    "image_file": "kimono_fibrana.png"
+    "image_file": "kimono_fibrana.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/kimono_fibrana.png"
   },
   {
     "corrected_title": "Pant. Bengalina Pitbull",
@@ -2140,7 +2299,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Pant. Bengalina Pitbull",
-    "image_file": "pant__bengalina_pitbull.png"
+    "image_file": "pant__bengalina_pitbull.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/pant__bengalina_pitbull.png"
   },
   {
     "corrected_title": "Buzos Con Capucha",
@@ -2151,7 +2311,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Buzos con capucha",
-    "image_file": "buzos_con_capucha.png"
+    "image_file": "buzos_con_capucha.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/buzos_con_capucha.png"
   },
   {
     "corrected_title": "Short Lycra",
@@ -2162,7 +2323,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Short lycra",
-    "image_file": "short_lycra.png"
+    "image_file": "short_lycra.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_lycra.png"
   },
   {
     "corrected_title": "Vestido Morley Especial",
@@ -2173,7 +2335,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestido morley especial",
-    "image_file": "vestido_morley_especial.png"
+    "image_file": "vestido_morley_especial.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestido_morley_especial.png"
   },
   {
     "corrected_title": "Corpiños Deportivos",
@@ -2184,7 +2347,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Corpiños deportivos",
-    "image_file": "corpi_os_deportivos.png"
+    "image_file": "corpi_os_deportivos.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/corpi_os_deportivos.png"
   },
   {
     "corrected_title": "Maxi Vestido Viscoza",
@@ -2195,7 +2359,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Maxi vestido viscoza",
-    "image_file": "maxi_vestido_viscoza.png"
+    "image_file": "maxi_vestido_viscoza.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/maxi_vestido_viscoza.png"
   },
   {
     "corrected_title": "Short Seamless",
@@ -2206,7 +2371,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Short Seamless",
-    "image_file": "short_seamless_1.png"
+    "image_file": "short_seamless_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_seamless_1.png"
   },
   {
     "corrected_title": "Short Baño",
@@ -2216,7 +2382,8 @@
     "variants": [],
     "image_matches_text": true,
     "original_title": "Short baño",
-    "image_file": "short_ba_o_1.png"
+    "image_file": "short_ba_o_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/short_ba_o_1.png"
   },
   {
     "corrected_title": "Básicas 1/5",
@@ -2227,7 +2394,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Básicas 1/5",
-    "image_file": "b_sicas_1_5.png"
+    "image_file": "b_sicas_1_5.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/b_sicas_1_5.png"
   },
   {
     "corrected_title": "Sweater Importados",
@@ -2238,7 +2406,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Swetter importados",
-    "image_file": "swetter_importados_1.png"
+    "image_file": "swetter_importados_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/swetter_importados_1.png"
   },
   {
     "corrected_title": "Media Antideslizantes",
@@ -2249,7 +2418,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Media antideslizantes",
-    "image_file": "media_antideslizantes.png"
+    "image_file": "media_antideslizantes.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/media_antideslizantes.png"
   },
   {
     "corrected_title": "Vestido Solera Fibrana",
@@ -2269,7 +2439,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestido solera Fibrana",
-    "image_file": "vestido_solera_fibrana.png"
+    "image_file": "vestido_solera_fibrana.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestido_solera_fibrana.png"
   },
   {
     "corrected_title": "Camisaco",
@@ -2280,7 +2451,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Camisaco",
-    "image_file": "camisaco_1.png"
+    "image_file": "camisaco_1.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/camisaco_1.png"
   },
   {
     "corrected_title": "Conjunto Seamless Batik",
@@ -2291,7 +2463,8 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Conjunto Seamless Batik",
-    "image_file": "conjunto_seamless_batik.png"
+    "image_file": "conjunto_seamless_batik.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/conjunto_seamless_batik.png"
   },
   {
     "corrected_title": "Vestidos Especial",
@@ -2302,6 +2475,7 @@
     "image_matches_text": true,
     "mismatch_reason": "",
     "original_title": "Vestidos especial",
-    "image_file": "vestidos_especial.png"
+    "image_file": "vestidos_especial.png",
+    "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestidos_especial.png"
   }
 ]
