@@ -2,7 +2,6 @@ node_modules/
 nul
 *.zip
 Catalog_Images/
-Catalog_Images_Processed/
 Extracted_Images/
 Imagenes_Revisar/
 tunnel.txt
