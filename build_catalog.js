@@ -46,7 +46,8 @@ try {
 
     for (const prod of products) {
         const category = getCategory(prod.corrected_title || '');
-        const imgSrc = `../Catalog_Images_Processed/${prod.image_file}`;
+        // Use public GitHub raw URL if available (for Vercel/online hosting), otherwise fall back to local path
+        const imgSrc = prod.image_url || `../Catalog_Images_Processed/${prod.image_file}`;
 
         let priceElement = '';
         let priceDisplay = '';
