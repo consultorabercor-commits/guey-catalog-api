@@ -105,7 +105,19 @@ try {
                 </div>`;
         } else {
             priceDisplay = basePriceFormatted;
-            priceElement = `<p class="text-primary font-black tracking-tight text-lg">${basePriceFormatted}</p>`;
+            if (prod.is_sale && prod.original_price) {
+                const originalFormatted = "$" + prod.original_price.toLocaleString('es-AR');
+                priceElement = `
+                <div class="flex flex-col gap-0.5">
+                    <div class="flex items-center gap-2">
+                        <span class="bg-guey-red text-white text-[10px] font-black uppercase tracking-widest px-2 py-0.5 rounded">SALE</span>
+                        <span class="text-gray-400 text-sm line-through">${originalFormatted}</span>
+                    </div>
+                    <p class="text-primary font-black tracking-tight text-xl leading-none">${basePriceFormatted}</p>
+                </div>`;
+            } else {
+                priceElement = `<p class="text-primary font-black tracking-tight text-lg">${basePriceFormatted}</p>`;
+            }
         }
 
         const safeTitle = (prod.corrected_title || "").replace(/"/g, '&quot;');
