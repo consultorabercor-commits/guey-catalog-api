@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>GÜEY | Tu Carrito</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+    tailwind.config = {
+        darkMode: "class",
+        theme: {
+            extend: {
+                colors: {
+                    "pure-black": "#0A0A0A",
+                    "guey-red": "#E8000D",
+                    "whatsapp-green": "#25D366",
+                    "dark-border": "#27272a",
+                    "off-white": "#F5F5F5",
+                    "dark-gray": "#1A1A1A",
+                },
+                fontFamily: {
+                    "display": ["Oswald", "sans-serif"],
+                    "body": ["Plus Jakarta Sans", "sans-serif"]
+                },
+            },
+        },
+    }
+</script>
+<style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #0A0A0A; color: #ffffff; }
+    h1, h2, h3, .font-display { font-family: 'Oswald', sans-serif; }
+    .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+    .filled-icon { font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+    .scrollbar-hide::-webkit-scrollbar { display: none; }
+    .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+</head>
+<body class="bg-pure-black min-h-screen flex items-center justify-center p-4">
+
+<div class="w-full max-w-[1400px] h-[90vh] grid grid-cols-1 md:grid-cols-2 gap-0 border border-dark-border bg-pure-black shadow-2xl overflow-hidden rounded-sm relative">
+
+    <!-- LEFT: Cart items -->
+    <div class="flex flex-col h-full border-r border-dark-border bg-pure-black relative">
+        <header class="flex items-center justify-between px-8 py-6 border-b border-dark-border shrink-0">
+            <div class="flex items-center gap-4">
+                <div class="w-1.5 h-8 bg-guey-red"></div>
+                <h2 class="text-3xl font-display font-bold uppercase tracking-tight text-white">
+                    Tu Carrito <span id="cart-count-label" class="text-zinc-500 font-medium ml-2 text-xl align-middle">(0 items)</span>
+                </h2>
+            </div>
+            <a href="Home_Catalog_Final.html" class="p-2 hover:bg-white/10 rounded-full transition-colors group" title="Seguir comprando">
+                <span class="material-symbols-outlined text-guey-red text-3xl font-bold group-hover:scale-110 transition-transform">close</span>
+            </a>
+        </header>
+
+        <!-- Items list -->
+        <div id="cart-items-list" class="flex-1 overflow-y-auto px-8 py-4 space-y-6 scrollbar-hide">
+            <!-- Filled by JS -->
+        </div>
+
+        <!-- Empty state -->
+        <div id="cart-empty" class="flex-1 flex-col items-center justify-center text-center py-16 hidden">
+            <span class="material-symbols-outlined text-6xl text-zinc-700 block mb-4">shopping_cart</span>
+            <p class="text-zinc-500 font-display text-xl uppercase tracking-widest">Tu carrito está vacío</p>
+            <a href="Home_Catalog_Final.html" class="mt-8 inline-block px-8 py-3 bg-guey-red text-white font-display font-bold uppercase tracking-widest hover:bg-red-700 transition-all">
+                Ver Catálogo
+            </a>
+        </div>
+
+        <!-- Footer with total and WhatsApp button -->
+        <footer class="p-8 border-t border-dark-border bg-pure-black shrink-0">
+            <div class="bg-dark-gray p-6 mb-6 border-l-4 border-white">
+                <div class="flex justify-between items-end text-white">
+                    <span class="font-display text-lg font-bold tracking-wide uppercase text-zinc-400">Total Estimado</span>
+                    <span id="cart-total" class="font-display text-3xl font-bold tracking-tight">$0</span>
+                </div>
+            </div>
+            <button id="btn-finalizar-wa" class="w-full bg-transparent border border-whatsapp-green text-whatsapp-green hover:bg-whatsapp-green hover:text-black font-display font-bold uppercase tracking-widest py-4 flex items-center justify-center gap-3 transition-all duration-300 disabled:opacity-40 disabled:cursor-not-allowed">
+                <span>💬 Finalizar por WhatsApp</span>
+            </button>
+        </footer>
+    </div>
+
+    <!-- RIGHT: Summary + WhatsApp confirmation -->
+    <div class="bg-zinc-900/30 flex flex-col items-center justify-center p-12 relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-64 h-64 bg-whatsapp-green/5 blur-3xl rounded-full pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-64 h-64 bg-guey-red/5 blur-3xl rounded-full pointer-events-none"></div>
+        <div class="w-full max-w-md space-y-8 relative z-10 text-center">
+            <div class="inline-flex items-center justify-center w-20 h-20 rounded-full bg-whatsapp-green/10 text-whatsapp-green mb-2 ring-1 ring-whatsapp-green/30">
+                <span class="material-symbols-outlined filled-icon text-[40px]">check_circle</span>
+            </div>
+            <div class="space-y-2">
+                <h2 class="text-4xl font-display font-bold text-white uppercase tracking-tighter">¡Pedido listo para enviar!</h2>
+                <p class="text-zinc-400 text-sm tracking-wide">CONFIRMÁ TU ORDEN VÍA WHATSAPP PARA COORDINAR EL PAGO Y ENVÍO.</p>
+            </div>
+            <div class="bg-black border border-zinc-800 p-6 text-left shadow-2xl relative">
+                <div class="absolute -left-[1px] top-4 bottom-4 w-1 bg-guey-red"></div>
+                <h4 class="text-zinc-500 font-display uppercase tracking-widest text-xs mb-4 border-b border-zinc-900 pb-2">Resumen del pedido</h4>
+                <ul id="summary-items" class="space-y-3 mb-6">
+                    <!-- Filled by JS -->
+                </ul>
+                <div id="summary-empty-msg" class="text-zinc-600 text-sm text-center py-4 hidden">No hay productos en el carrito.</div>
+                <div class="flex justify-between items-center pt-4 border-t border-zinc-800">
+                    <span class="font-display font-bold text-white tracking-wide">TOTAL A PAGAR</span>
+                    <span id="summary-total" class="font-display font-bold text-xl text-whatsapp-green">$0</span>
+                </div>
+            </div>
+            <div class="space-y-4">
+                <div class="flex items-center justify-center gap-2 text-zinc-500 text-sm font-mono">
+                    <span class="material-symbols-outlined text-base">call</span>
+                    <span>+54 9 351 557-9020</span>
+                </div>
+                <a id="btn-wa-confirm" href="#" target="_blank" rel="noopener noreferrer" class="w-full bg-whatsapp-green hover:bg-[#1ebc59] text-black font-display font-bold uppercase tracking-wider py-4 px-6 flex items-center justify-center gap-2 transition-all shadow-[0_0_20px_rgba(37,211,102,0.2)] hover:shadow-[0_0_30px_rgba(37,211,102,0.4)] transform hover:-translate-y-1">
+                    <span class="material-symbols-outlined filled-icon">send</span>
+                    📲 Abrir WhatsApp y Confirmar Pedido
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+(function() {
+    const WHATSAPP = '5493515579020';
+
+    function getCart() {
+        try { return JSON.parse(localStorage.getItem('guey_cart') || '[]'); } catch(e) { return []; }
+    }
+    function saveCart(cart) {
+        localStorage.setItem('guey_cart', JSON.stringify(cart));
+    }
+
+    function formatPrice(n) {
+        return '$' + Number(n).toLocaleString('es-AR');
+    }
+
+    function renderCart() {
+        const cart = getCart();
+        const listEl = document.getElementById('cart-items-list');
+        const emptyEl = document.getElementById('cart-empty');
+        const summaryEl = document.getElementById('summary-items');
+        const summaryEmpty = document.getElementById('summary-empty-msg');
+        const totalEl = document.getElementById('cart-total');
+        const summaryTotalEl = document.getElementById('summary-total');
+        const countLabel = document.getElementById('cart-count-label');
+        const btnFinalizar = document.getElementById('btn-finalizar-wa');
+        const btnWaConfirm = document.getElementById('btn-wa-confirm');
+
+        listEl.innerHTML = '';
+        summaryEl.innerHTML = '';
+
+        const totalItems = cart.reduce((a, b) => a + b.qty, 0);
+        const totalPrice = cart.reduce((a, b) => a + (b.price * b.qty), 0);
+
+        countLabel.textContent = '(' + totalItems + ' item' + (totalItems !== 1 ? 's' : '') + ')';
+        totalEl.textContent = formatPrice(totalPrice);
+        summaryTotalEl.textContent = formatPrice(totalPrice);
+
+        if (cart.length === 0) {
+            listEl.classList.add('hidden');
+            emptyEl.classList.remove('hidden');
+            emptyEl.classList.add('flex');
+            summaryEmpty.classList.remove('hidden');
+            btnFinalizar.disabled = true;
+        } else {
+            listEl.classList.remove('hidden');
+            emptyEl.classList.remove('flex');
+            emptyEl.classList.add('hidden');
+            summaryEmpty.classList.add('hidden');
+            btnFinalizar.disabled = false;
+
+            cart.forEach((item, idx) => {
+                // Cart item row
+                const row = document.createElement('div');
+                row.className = 'flex gap-6 group py-4 border-b border-zinc-900';
+                row.innerHTML = `
+                    <div class="w-24 h-28 bg-zinc-900 overflow-hidden shrink-0 border border-zinc-800">
+                        <img alt="${item.title}" class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity" src="${item.img || ''}" onerror="this.style.display='none'" />
+                    </div>
+                    <div class="flex flex-col flex-1 justify-between py-1">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h3 class="font-display font-bold text-xl text-white uppercase tracking-wide">${item.title}</h3>
+                                ${item.size ? `<p class="text-xs text-zinc-500 mt-1 uppercase tracking-wider font-semibold">Talle: ${item.size}</p>` : ''}
+                            </div>
+                            <button class="text-zinc-600 hover:text-guey-red transition-colors" data-remove="${idx}">
+                                <span class="material-symbols-outlined text-[22px]">delete</span>
+                            </button>
+                        </div>
+                        <div class="flex items-end justify-between mt-2">
+                            <div class="flex items-center bg-transparent border border-zinc-800 h-9 px-1">
+                                <button class="px-3 h-full hover:text-white text-zinc-500 transition-colors" data-dec="${idx}">
+                                    <span class="material-symbols-outlined text-[16px]">remove</span>
+                                </button>
+                                <span class="px-2 font-display text-sm font-bold min-w-[24px] text-center text-white">${item.qty}</span>
+                                <button class="px-3 h-full hover:text-guey-red text-zinc-500 transition-colors" data-inc="${idx}">
+                                    <span class="material-symbols-outlined text-[16px]">add</span>
+                                </button>
+                            </div>
+                            <span class="font-display font-bold text-white text-lg tracking-wide">${formatPrice(item.price * item.qty)}</span>
+                        </div>
+                    </div>`;
+                listEl.appendChild(row);
+
+                // Summary row
+                const li = document.createElement('li');
+                li.className = 'flex justify-between text-sm';
+                li.innerHTML = `
+                    <span class="text-zinc-300">${item.qty}x ${item.title}${item.size ? ' (' + item.size + ')' : ''}</span>
+                    <span class="text-zinc-500 font-mono">${formatPrice(item.price * item.qty)}</span>`;
+                summaryEl.appendChild(li);
+            });
+
+            // Build WhatsApp message
+            let msg = '¡Hola GÜEY! Quiero hacer el siguiente pedido:\n\n';
+            cart.forEach(item => {
+                msg += `▪ ${item.qty}x *${item.title}*${item.size ? ' - Talle: ' + item.size : ''} → ${formatPrice(item.price * item.qty)}\n`;
+            });
+            msg += `\n💰 *TOTAL: ${formatPrice(totalPrice)}*\n\n¿Cómo coordino el pago y envío?`;
+            const waUrl = 'https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(msg);
+            btnWaConfirm.href = waUrl;
+            btnFinalizar.onclick = function() { window.open(waUrl, '_blank'); };
+        }
+
+        // Event delegation for buttons
+        listEl.addEventListener('click', function(e) {
+            const removeBtn = e.target.closest('[data-remove]');
+            const decBtn = e.target.closest('[data-dec]');
+            const incBtn = e.target.closest('[data-inc]');
+            const cart = getCart();
+
+            if (removeBtn) {
+                const idx = parseInt(removeBtn.dataset.remove);
+                cart.splice(idx, 1);
+                saveCart(cart);
+                renderCart();
+            } else if (decBtn) {
+                const idx = parseInt(decBtn.dataset.dec);
+                if (cart[idx].qty > 1) { cart[idx].qty--; } else { cart.splice(idx, 1); }
+                saveCart(cart);
+                renderCart();
+            } else if (incBtn) {
+                const idx = parseInt(incBtn.dataset.inc);
+                cart[idx].qty++;
+                saveCart(cart);
+                renderCart();
+            }
+        }, { once: false });
+    }
+
+    document.addEventListener('DOMContentLoaded', renderCart);
+})();
+</script>
+
+</body></html>

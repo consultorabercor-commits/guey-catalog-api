@@ -1,0 +1,195 @@
+
+🚀 INICIANDO PROCESO CON AUTO-REVISIÓN
+   📁 Total a procesar: 140 imágenes
+   📂 Aprobadas → Catalog_Images_Processed/Buenas Imagenes/
+   🔁 Máximo reintentos por imagen: 5
+  ✅ [YA APROBADA] 7900.png
+  ✅ [YA APROBADA] animal_print.png
+  ✅ [YA APROBADA] babuchas_morley.png
+  ✅ [YA APROBADA] babucha_rustica_y_friza.png
+  ✅ [YA APROBADA] bengalina.png
+  ✅ [YA APROBADA] bermudas_de_jean.png
+  ✅ [YA APROBADA] biker.png
+  ✅ [YA APROBADA] biker_especial.png
+  ✅ [YA APROBADA] biker_liso.png
+  ✅ [YA APROBADA] blazer_bengalina_y_crep.png
+
+📊 Progreso: 10/140 procesadas | ✅ En "Buenas Imagenes": 137/140
+  ✅ [YA APROBADA] buzos_algodon.png
+  ✅ [YA APROBADA] buzo_g_tico_lanilla.png
+  ✅ [YA APROBADA] buzo_lanilla.png
+  ✅ [YA APROBADA] buzo_peluche.png
+  ✅ [YA APROBADA] buzo_peluche_corto.png
+  ✅ [YA APROBADA] b_sicas_1_5.png
+  ✅ [YA APROBADA] calzas_sublimada.png
+  ✅ [YA APROBADA] calzas_sublimadas_importadas.png
+  ✅ [YA APROBADA] calza_con_piel.png
+  ✅ [YA APROBADA] camisaco.png
+
+📊 Progreso: 20/140 procesadas | ✅ En "Buenas Imagenes": 137/140
+  ✅ [YA APROBADA] camisetas_termicas.png
+  ✅ [YA APROBADA] camisetas_termicas_y_poleras.png
+  ✅ [YA APROBADA] camisetas_t_rmicas.png
+  ✅ [YA APROBADA] camiseta_argentina.png
+  ✅ [YA APROBADA] camiseta_t_rmica_hombre_y_dama.png
+  ✅ [YA APROBADA] camisola_fibrana_poplin.png
+  ✅ [YA APROBADA] camisola_lino.png
+  ✅ [YA APROBADA] camisola_vestido.png
+  ✅ [YA APROBADA] camperas_de_jean.png
+  ✅ [YA APROBADA] camperas_importadas.png
+
+📊 Progreso: 30/140 procesadas | ✅ En "Buenas Imagenes": 137/140
+  ✅ [YA APROBADA] camperas_modal_jaspeado.png
+  ✅ [YA APROBADA] campera_bengalina.png
+  ✅ [YA APROBADA] campera_con_piel.png
+  ✅ [YA APROBADA] campera_dama_hombre_y_ni_o.png
+  ✅ [YA APROBADA] campera_engomada.png
+  ✅ [YA APROBADA] campera_engomada_elastizada.png
+  ✅ [YA APROBADA] campera_jean_especial.png
+  ✅ [YA APROBADA] campera_lanilla.png
+  ✅ [YA APROBADA] campera_microfibra.png
+  ✅ [YA APROBADA] campera_neopren.png
+
+📊 Progreso: 40/140 procesadas | ✅ En "Buenas Imagenes": 137/140
+  ✅ [YA APROBADA] campera_plush.png
+  ✅ [YA APROBADA] campera_reversible.png
+  ✅ [YA APROBADA] campera_rompeviento_unisex.png
+  ✅ [YA APROBADA] campera_simil_cuero.png
+  ✅ [YA APROBADA] campera_s_mil_cuero_x_docena.png
+  ✅ [YA APROBADA] can_can_con_pie.png
+  ✅ [YA APROBADA] capri_con_textura.png
+  ✅ [YA APROBADA] chalecos.png
+  ✅ [YA APROBADA] chalecos_puffer.png
+  🏷️  Tipo esperado: MATCHING SET — show ALL pieces of the outfit together (e.g., both the top/jacket AND the bottom/pants laid out together, not just one piece)
+
+  🎨 Generando (intento 1/5): conjunto.png
+  🔍 Revisando calidad...
+  ❌ RECHAZADA: Garment type is not a matching set.
+     Reintentando...
+
+  🎨 Generando (intento 2/5): conjunto.png
+  🔍 Revisando calidad...
+  ❌ RECHAZADA: Garment type does not match. Expected: MATCHING SET. Actual: Shirt
+     Reintentando...
+
+  🎨 Generando (intento 3/5): conjunto.png
+  🔍 Revisando calidad...
+  ✅ APROBADA → Buenas Imagenes/conjunto.png
+
+📊 Progreso: 50/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] conjuntos_fibrana.png
+  ✅ [YA APROBADA] conjuntos_seamless.png
+  ✅ [YA APROBADA] conjunto_anticelulitis.png
+  ✅ [YA APROBADA] conjunto_fibrana.png
+  ✅ [YA APROBADA] conjunto_importado.png
+  ✅ [YA APROBADA] conjunto_lycra.png
+  ✅ [YA APROBADA] conjunto_seamless_batik.png
+  ✅ [YA APROBADA] conjunto_top_y_short.png
+  ✅ [YA APROBADA] corpi_os_deportivos.png
+  ✅ [YA APROBADA] crop_t__nico_musculosa.png
+
+📊 Progreso: 60/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] deportivo_lycra.png
+  ✅ [YA APROBADA] desde_18000.png
+  ✅ [YA APROBADA] jeans_mom_y_elephant.png
+  ✅ [YA APROBADA] jeans_mon_y_oxford.png
+  ✅ [YA APROBADA] jogger_algodon_rustico.png
+  ✅ [YA APROBADA] jogger_bengalina_1_al_5.png
+  ⏭️  [SALTEAR MANUAL] kimono_encaje.png
+  ✅ [YA APROBADA] kimono_fibrana.png
+  ✅ [YA APROBADA] linea_seamless.png
+  ✅ [YA APROBADA] lurex_remera.png
+
+📊 Progreso: 70/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] maxi_buzo_lanilla.png
+  ✅ [YA APROBADA] maxi_campera_peluche.png
+  ✅ [YA APROBADA] maxi_campera_plush.png
+  ✅ [YA APROBADA] maxi_remera.png
+  ✅ [YA APROBADA] maxi_swetter.png
+  ✅ [YA APROBADA] maxi_vestido_viscoza.png
+  ✅ [YA APROBADA] modal_viscoza.png
+  ✅ [YA APROBADA] mono_modal_viscoza.png
+  ✅ [YA APROBADA] mono_viscoza.png
+  ✅ [YA APROBADA] mon_y_win_leg.png
+
+📊 Progreso: 80/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] musculosa_drifit.png
+  ✅ [YA APROBADA] musculosa_hombre_1_al_10.png
+  ✅ [YA APROBADA] musculosa_sublimada.png
+  ✅ [YA APROBADA] neoprem.png
+  ✅ [YA APROBADA] neopren.png
+  ✅ [YA APROBADA] ni_o_ofertas.png
+  ✅ [YA APROBADA] oferta_con_friza.png
+  ✅ [YA APROBADA] paisana_fibrana.png
+  ✅ [YA APROBADA] palazos.png
+  ✅ [YA APROBADA] palazzos_crep___set_modal.png
+
+📊 Progreso: 90/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] pantal_n_engomado.png
+  ✅ [YA APROBADA] pant_pilu.png
+  ✅ [YA APROBADA] poleras_cortas_morley_y_lanilla.png
+  ✅ [YA APROBADA] poleras_modal.png
+  ✅ [YA APROBADA] polera_lanilla.png
+  ✅ [YA APROBADA] polera_morley.png
+  ✅ [YA APROBADA] polera_tejida.png
+  ✅ [YA APROBADA] poleron_lanilla_y_morley.png
+  ✅ [YA APROBADA] poplin_1_al_14_adulto_y_ni_o.png
+  ✅ [YA APROBADA] puffer_1_al_4.png
+
+📊 Progreso: 100/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] remeras.png
+  ✅ [YA APROBADA] remeras_algodon.png
+  ✅ [YA APROBADA] remeras_algodon_n.png
+  ✅ [YA APROBADA] remeras_b_sicas_morley.png
+  ✅ [YA APROBADA] remeras_cortas_morley.png
+  ✅ [YA APROBADA] remeras_lacost.png
+  ✅ [YA APROBADA] remeras_lanilla.png
+  ✅ [YA APROBADA] remeras_lisas.png
+  ✅ [YA APROBADA] remeras_morley.png
+  ✅ [YA APROBADA] remeras_m_larga.png
+
+📊 Progreso: 110/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] remeras_varios_modelos.png
+  ✅ [YA APROBADA] remera_corta_morley.png
+  ✅ [YA APROBADA] remera_morley.png
+  ✅ [YA APROBADA] remeron_lanilla.png
+  ✅ [YA APROBADA] rompeviento_forrado.png
+  ✅ [YA APROBADA] ruanas_polar.png
+  ✅ [YA APROBADA] r_stico_dama.png
+  ✅ [YA APROBADA] saco_abierto.png
+  ✅ [YA APROBADA] saco_lanilla.png
+  ✅ [YA APROBADA] saco_tricolor.png
+
+📊 Progreso: 120/140 procesadas | ✅ En "Buenas Imagenes": 138/140
+  ✅ [YA APROBADA] saco_wafle.png
+  ✅ [YA APROBADA] shorts_lycra_con_cierre_en_bolsillo.png
+  ✅ [YA APROBADA] short_ba_o.png
+
+  🎨 Generando (intento 1/5): simil_cuero_de_hombre.png
+  🔍 Revisando calidad...
+  ✅ APROBADA → Buenas Imagenes/simil_cuero_de_hombre.png
+  ✅ [YA APROBADA] solera_fibrana_poplin.png
+  ✅ [YA APROBADA] solera_seda_fr_a.png
+  ✅ [YA APROBADA] sudaderas.png
+  ✅ [YA APROBADA] superpuesta_lanilla.png
+  ✅ [YA APROBADA] swetter_importado.png
+  ✅ [YA APROBADA] swetter_importados.png
+
+📊 Progreso: 130/140 procesadas | ✅ En "Buenas Imagenes": 139/140
+  ✅ [YA APROBADA] swetter_over.png
+  ✅ [YA APROBADA] tapado_nacional.png
+  ✅ [YA APROBADA] tiro_fino.png
+  ✅ [YA APROBADA] t_rmica_deportiva.png
+  ✅ [YA APROBADA] vestidos_especial.png
+  ✅ [YA APROBADA] vestido_con_lazo.png
+  ✅ [YA APROBADA] vestido_fibrana_poplin.png
+  ✅ [YA APROBADA] vestido_lino.png
+  ✅ [YA APROBADA] vestido_morley_especial.png
+  ✅ [YA APROBADA] vestido_solera_fibrana.png
+
+📊 Progreso: 140/140 procesadas | ✅ En "Buenas Imagenes": 139/140
+
+========== PROCESO COMPLETO ==========
+✅ Aprobadas esta sesión: 140
+⚠️  Aceptadas por máx reintentos: 0
+📂 Total en Buenas Imagenes: 139/140

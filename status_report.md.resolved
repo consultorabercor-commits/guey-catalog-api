@@ -1,0 +1,28 @@
+# Reporte de Estado: Catálogo Premium Güey Indumentaria
+
+Este documento resume lo logrado, el trabajo actual y los pasos finales para alcanzar la calidad e-commerce 100% profesional.
+
+## 1. ¿Qué hicimos hasta ahora?
+*   **Limpieza de Base**: Eliminamos duplicados de `Catalog_Images` (quedaron 140 archivos únicos).
+*   **Pivot Estratégico**: Abandonamos la idea de generar "4 ángulos" artificialmente. Descubrimos que la IA deformaba la prenda al inventar la espalda/lados. Decidimos ir por **Opción A (Foto Fiel)**: procesar la foto real para dejarla perfecta.
+*   **Ingeniería de Prompts**: Refinamos el motor de Gemini para que:
+    *   Remueva fondos perfectamente.
+    *   Elimine maniquíes, percheros y modelos humanos.
+    *   Agregue sombra suave y fondo gris de estudio (#F0F0F0).
+*   **Rediseño Web**: Revertimos el catálogo `Home_Catalog_Final.html` para usar una foto central con efecto zoom premium, eliminando el carrusel inestable.
+
+## 2. ¿Qué estamos haciendo actualmente?
+*   **Loop Inteligente (Auto-Revisión)**: Estamos corriendo el script [process_images_loop.js](file:///c:/Users/Agustin/OneDrive/Desktop/Pagina%20Web%20M.C/process_images_loop.js). 
+    *   Este sistema usa **dos IAs**: una genera la imagen y la otra (Gemini Vision) actúa como "Inspector de Calidad".
+    *   Si el inspector detecta un maniquí o un error, la foto se borra y se rehace automáticamente. 
+    *   Si la foto es perfecta, se mueve a la carpeta final: `Catalog_Images_Processed/Buenas Imagenes`.
+    *   **Estado actual**: Llevamos **100+ de 140** productos aprobados y listos.
+
+## 3. ¿Qué falta realizar?
+1.  **Finalizar Batch**: Dejar que el loop termine con el 100% de los productos (faltan ~30-40 mins).
+2.  **Verificación manual final**: Una pasada rápida de "ojos humanos" sobre la carpeta `Buenas Imagenes` para confirmar que no se filtró nada.
+3.  **Sincronización GitHub**: Subir todas las nuevas fotos a la nube para que se vean en la web en vivo.
+4.  **Despliegue Final**: Actualizar el catálogo en Vercel con las fotos ya procesadas y el nuevo diseño de foto única.
+
+---
+**Nota técnica**: El servidor local `http-server` sigue activo en el puerto 8080 para previsualizar los resultados en tiempo real.

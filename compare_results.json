@@ -1,0 +1,89 @@
+{
+  "newProducts": [
+    {
+      "name": "Paisana fibrana",
+      "price": "ARS 15,000.00"
+    },
+    {
+      "name": "Remeron lanilla",
+      "price": "ARS 11,000.00"
+    }
+  ],
+  "priceChanges": [
+    {
+      "name": "Buzos algodon",
+      "old": 25000,
+      "new": 16900
+    },
+    {
+      "name": "Solera seda fría",
+      "old": 12900,
+      "new": 15900
+    },
+    {
+      "name": "Chalecos",
+      "old": 25000,
+      "new": 11000
+    },
+    {
+      "name": "Pantalón lanilla",
+      "old": 10900,
+      "new": 9900
+    },
+    {
+      "name": "Poleras modal",
+      "old": 5900,
+      "new": 4900
+    },
+    {
+      "name": "Campera jean especial",
+      "old": 25000,
+      "new": 29000
+    },
+    {
+      "name": "Jogger gabardina elastizados Cargo",
+      "old": 21900,
+      "new": 18900
+    },
+    {
+      "name": "Babucha rustica y friza",
+      "old": 14900,
+      "new": 9900
+    },
+    {
+      "name": "Shorts Baño",
+      "old": 9900,
+      "new": 5900
+    },
+    {
+      "name": "Biker liso",
+      "old": 6900,
+      "new": 4900
+    },
+    {
+      "name": "Pantalón Náutico",
+      "old": 23900,
+      "new": 19000
+    },
+    {
+      "name": "Sudaderas",
+      "old": 9900,
+      "new": 7900
+    },
+    {
+      "name": "Camperas de jean",
+      "old": 23000,
+      "new": 28000
+    },
+    {
+      "name": "Calzas frizadasy sin friza",
+      "old": 8900,
+      "new": 7900
+    },
+    {
+      "name": "Simil cuero de hombre",
+      "old": 58000,
+      "new": 35000
+    }
+  ]
+}

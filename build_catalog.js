@@ -46,9 +46,6 @@ try {
 
     for (const prod of products) {
         const category = getCategory(prod.corrected_title || '');
-        // Use public GitHub raw URL if available (for Vercel/online hosting), otherwise fall back to local path
-        const imgSrc = prod.image_url || `../Catalog_Images_Processed/${prod.image_file}`;
-
         let priceElement = '';
         let priceDisplay = '';
         const basePriceFormatted = prod.base_price > 0 ? "$" + prod.base_price.toLocaleString('es-AR') : "Consultar";
@@ -121,6 +118,13 @@ try {
             }
         }
 
+        // Build the single processed image URL for production
+        const baseImgName = (prod.image_file || "").replace(/\.(jpg|jpeg|png)$/i, '');
+        let imgSrc = `https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/${baseImgName}.png`;
+        if (prod.image_url) {
+            imgSrc = prod.image_url.replace(/\.jpg$/i, '.png');
+        }
+
         const safeTitle = (prod.corrected_title || "").replace(/"/g, '&quot;');
         const safeDesc = (prod.corrected_description || "").replace(/"/g, '&quot;');
         // Encode title for WhatsApp URL
@@ -130,13 +134,13 @@ try {
         const hasVariants = prod.price_type === "VARIABLE" && prod.variants && prod.variants.length > 0;
         const dataImg = encodeURIComponent(imgSrc);
 
-        // Generate card
+        // Generate card with single premium studio photo
         generatedCards += `
 <div class="group relative product-card" data-title="${safeTitle.toLowerCase()}" data-price="${prod.base_price}" data-category="${category}" data-img="${dataImg}">
     <div class="relative bg-white rounded-lg overflow-hidden border border-gray-200 shadow-sm hover:shadow-xl transition-shadow duration-300">
         <!-- Image Container -->
-        <div class="relative aspect-[4/5] bg-gray-100 overflow-hidden">
-            <img alt="${safeTitle}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" src="${imgSrc}" loading="lazy" />
+        <div class="relative aspect-[4/5] bg-[#F0F0F0] overflow-hidden">
+            <img alt="${safeTitle}" class="w-full h-full object-contain transition-transform duration-700 group-hover:scale-110" src="${imgSrc}" loading="lazy" />
             
             <!-- Floating WhatsApp Icon -->
             <a href="https://wa.me/${WHATSAPP_NUMBER}?text=${waMsg}" target="_blank" rel="noopener noreferrer" class="whatsapp-btn absolute bottom-4 right-4 bg-[#25D366] text-white p-3 rounded-full shadow-lg hover:scale-110 transition-transform flex items-center justify-center z-20">

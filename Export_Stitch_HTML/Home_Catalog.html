@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html class="dark" lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Guey Indumentaria | Home &amp; Catalog</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#E60000", // Premium Red
+                        "primary-dark": "#B30000",
+                        "background-dark": "#0A0A0A", // Deep Black
+                        "surface-dark": "#141414", // Slightly lighter black
+                        "whatsapp": "#25D366"
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        body {
+            font-family: 'Manrope', sans-serif;
+        }
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="bg-background-dark text-white font-display antialiased">
+<a class="fixed bottom-6 right-6 z-50 bg-whatsapp text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform flex items-center justify-center" href="#">
+<span class="material-symbols-outlined text-3xl">chat</span>
+</a>
+<header class="sticky top-0 z-40 w-full border-b border-white/10 bg-background-dark/90 backdrop-blur-md">
+<div class="max-w-[1440px] mx-auto px-6 lg:px-20 h-20 flex items-center justify-between">
+<div class="flex items-center gap-2 group cursor-pointer">
+<h1 class="text-3xl font-black tracking-tighter text-white">GUEY<span class="text-primary">.</span></h1>
+</div>
+<nav class="hidden md:flex items-center gap-10">
+<a class="text-sm font-bold text-white hover:text-primary transition-colors uppercase tracking-wide" href="#">Inicio</a>
+<a class="text-sm font-bold text-primary uppercase tracking-wide" href="#">Catálogo</a>
+<a class="text-sm font-bold text-white hover:text-primary transition-colors uppercase tracking-wide" href="#">Contacto</a>
+</nav>
+<div class="flex items-center gap-6">
+<div class="relative group cursor-pointer">
+<button class="flex items-center justify-center text-white hover:text-primary transition-all">
+<span class="material-symbols-outlined text-2xl">shopping_bag</span>
+</button>
+<span class="absolute -top-1 -right-2 bg-primary text-white text-[10px] font-bold h-4 w-4 rounded-full flex items-center justify-center">2</span>
+</div>
+</div>
+</div>
+</header>
+<main class="max-w-[1440px] mx-auto px-6 lg:px-20 py-8">
+<section class="relative w-full min-h-[550px] rounded-3xl overflow-hidden mb-16 flex items-center">
+<div class="absolute inset-0 bg-cover bg-center" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuB-s3RYr_2xYYoU9dnpmBDJK6-2_k3cAyO_kIlYqniKndGK8aQzlUSk-k0IpMRuisVav5ISNqgErojx15xQRXgJnzCsEtvHXK2uWPWGhgQRAAWxMfyzMfZ19Xv-WAc98tDuSXl32DPs6WdKluFg-jrcDM1jp4d4k9suOWXsburQ-rdJ33COyByKMa6W5aZeLtLCsYv81-wDw4-IEy2JO0qiZgX29iFX-lG-DTsN3QjhTOv2lhzxr5oES7--xUdStH4k6yNgiiSXTTqa');"></div>
+<div class="absolute inset-0 bg-gradient-to-r from-black via-black/70 to-transparent"></div>
+<div class="relative z-10 px-8 lg:px-20 max-w-4xl">
+<span class="inline-block py-1 px-3 border border-white/30 rounded-full text-xs font-bold tracking-widest uppercase mb-6 bg-black/20 backdrop-blur-sm text-white">
+                    Premium Streetwear
+                </span>
+<h2 class="text-5xl lg:text-8xl font-black mb-6 leading-[0.9] text-white tracking-tighter uppercase">
+                    GUEY<br/><span class="text-primary">Indumentaria</span>
+</h2>
+<p class="text-xl text-gray-300 max-w-lg mb-10 font-medium tracking-wide">
+                    Estilo que te define. Córdoba, Argentina.
+                </p>
+<div>
+<button class="px-10 py-4 bg-primary hover:bg-primary-dark text-white font-bold rounded-none uppercase tracking-wider text-sm transition-all transform hover:-translate-y-1 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)]">
+                        Ver Catálogo
+                    </button>
+</div>
+</div>
+</section>
+<section class="mb-16 sticky top-24 z-30 bg-background-dark/95 backdrop-blur py-4 border-b border-white/5">
+<div class="flex gap-4 overflow-x-auto pb-2 no-scrollbar">
+<button class="px-6 py-2 bg-surface-dark text-white border border-white/10 hover:border-primary rounded-full text-sm font-bold shrink-0 transition-all uppercase tracking-wide">Todos</button>
+<button class="px-6 py-2 bg-primary text-white rounded-full text-sm font-bold shrink-0 shadow-[0_0_15px_rgba(230,0,0,0.4)] uppercase tracking-wide">Casual</button>
+<button class="px-6 py-2 bg-surface-dark text-gray-400 border border-white/5 hover:text-white hover:border-white/30 rounded-full text-sm font-bold shrink-0 transition-all uppercase tracking-wide">Deportivo</button>
+<button class="px-6 py-2 bg-surface-dark text-gray-400 border border-white/5 hover:text-white hover:border-white/30 rounded-full text-sm font-bold shrink-0 transition-all uppercase tracking-wide">Uniformes</button>
+<button class="px-6 py-2 bg-surface-dark text-gray-400 border border-white/5 hover:text-white hover:border-white/30 rounded-full text-sm font-bold shrink-0 transition-all uppercase tracking-wide">Remeras</button>
+<button class="px-6 py-2 bg-surface-dark text-gray-400 border border-white/5 hover:text-white hover:border-white/30 rounded-full text-sm font-bold shrink-0 transition-all uppercase tracking-wide">Pantalones</button>
+</div>
+</section>
+<section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-12">
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Pantalón Lino Wide" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDaIzm9YY6B1Ct2V3n4tTCuWHNvbY-NNAC56Cd1MRCCbQO9WNyQ-MSExiqlYnZWe3O3IHwZRUJUUVP4FCngBngNYkdF2rceeKfJ8wWn_7eP14SW6ZlquJzkUKmb8DAvqxDit7R6ybe9uaF9ejodLwoH1t4sqTz2SDR1FriXNtLEBgAb4_izaLNAAWtqiopaI4A8S-cn8bwtw-jqKBsH4ban8OPyn0dhys9-UlAXV_ECqiT1APFk-G8748KJRq0KYJFEwMITO-pT7WkO"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Pantalón Lino Wide</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$6.900</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Hoodie Oversize Urban" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCUNhI7D4WmbWcwupFVKFm0S-vThSnlK0jBT4ipvZmKszY4Jm2ewQGhbl2Px-dd_7ckWLI_3wCgLjrUfA1CkPwXNTwBGIOoA28Jm_kuPmPZYqwwtMdECSus9rB9e0RezJ6UMpk4OpTtxTw9zHdejMW0MUzTVFsbtxM0GFPBZPbLaKkT1EK6RBGVkSKvKu6UOSeG8NniYLv-RdsWoYTw59vl217Llm5xVjyqFI_FrykqFuSm3elniN_IGbySFj0E63dJZBtH6GlmfSKf"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Hoodie Oversize Urban</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$8.500</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Remera Boxy Fit" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAcn2mO7Qt_Ckd8HxsBcXAVZwMto_qQfWzdBibdmWKPykG-LrXZBMco4eaHCS6Y-9O29bU_C9UMuWqQ16MAIFPk57o35i5P5rDrJ9NBxLafTiw1WHDup3tj862QPvdCscx7DvLAheH2hhnBhxM7PWc5VGfU5_noJ8NP3NedA1v1SdFh27YXUdFywsEqo3mKV8hzGEZpCjq5h8rP0OgrCN2ZO4Nmao-_b6gNtdgqVBwlQ16tcovyuLbvRNWMqblzlxVwlO0L2p71VUID"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Remera Boxy Fit</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$4.200</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Jogger Tech" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBexKU6_vSQCDrusiQBCocGP7lz2mZwL5JX2k4PMgC2W3eGvarPQuQFlm5-93ac4XibcYO5h0V602KaiOgEprWr6w-mvy3tXSNgYIFHQTUArP3lRog3q8Wy5y8uBwv0CiJBAaTH0hxUNk2N4v4k_zroVTv0Ckv4oA0VqF1_s_4xAD7zLX2IPPWgd8mThGXshez7DAXBhQwT9MLYYL8ahlEhgkIDy8b-xGYean_fIJ51oNi77tkw0GmcUdPc9szvCBRUFGbw9uPJEdJs"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Jogger Tech</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$12.500</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Chaqueta Cuero Minimal" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAQUN0MDa35XccTthLtsB9X8YmAGeq8NaMSIkCHy9bGZkzijDgqJwwnzmNZG0u_6iHGU-i1pv5cAp24gNuFTbvJGkvfNUakHJFMHovHG0Kkv1g_YAE5XXjc0sSilJRt9vOP_DbXcNy8bm6IsmmS37op4Nn7nF0g1OUHB2Mzd4Y4t4u6VNx_5dzP_NWLoP3drfbgqP4eKofzlq-7ffRr9XjDl_tezZEsPWb1Ey6rRdI82UvjdrMmZL2n0738v7DbwZfX654ONVhq1hFF"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Chaqueta Cuero</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$18.900</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Gorra Urban Cotton" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGXWEkWcFQuH9zp8AjBOhutE5edJQNC-TKy9WpZOZzpTlJrEX54ZyOK23YypO7rk9fi4FqJ3exIJZk127Ghz-9xo3UekNOXr0q7ZYopISBgGQ2n6sJNG98h2M6SK-HoUArrmbMLiewfqDUKO8NvW25OnLjORe_sOe86H_qkP_iq-4LGpJbfYMKmp27xNcaIH-zy31voEJZFYxerrP7ZmWniMErZ08PjRVwpKZYU-YYovsXuEHhTIKHb07E7aTUb_KO3SVv9uCRs_Ej"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Gorra Urban</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$2.400</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Short Lino Summer" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAFc8iHw4BXVxidMES7lFZS5tmnUYczYNq70braIbVLiLatXAK1IMK87YlvrHhB7dF2j9uR2sCYcxbupBRLWz5tZNSL1BkCiP2scWsiAt5jiLx-WKX-sli8wh-hhbcUJdtaFGJU6JUTco97jrfVuq6A6Xh9Oiqes26kL_WlP1k-aK28T57lY1HkuX5ZIADxkEI7zDAdViZnRe4z6mUfTIYd8uj6gSqvZAYG9-9DTQuQdBFwrluwqrmy89U-9fg9rF9QbIPMec05HZ0z"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Short Lino</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$4.900</p>
+</div>
+</div>
+</div>
+<div class="group relative">
+<div class="relative aspect-square overflow-hidden bg-surface-dark mb-4">
+<img alt="Sweater Knit Oversize" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRATphfLJKHFzCPO-oh_DaxDguVbmrklwjnx4P58eSl5-VVKdBC1yVLlxkyF9NXO8Obzl7bkv7PCrgPulN7yuF4O5XzlZBrAUwD785o-K7S4zCHb8lurl2KbCIEVt8FXTkWCa0cJ_zutSTQK14AJHTAhxOK3lZ5Pz8jfHe_WrNQ1VOlN81qhdhoinDnRWhUX-lT9IpzxAvhP-vbm3Pe1WNncdbV4zeYptGnG2mV0MeLXXM7SwwL4aq69fZLAch6GWGkNHmRrhRMndo"/>
+<button class="absolute bottom-4 right-4 bg-primary text-white p-3 rounded-full shadow-lg opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 hover:bg-white hover:text-primary z-20 flex items-center gap-1 pr-4">
+<span class="material-symbols-outlined text-sm">add</span> <span class="text-xs font-bold uppercase">Agregar</span>
+</button>
+</div>
+<div>
+<h4 class="font-bold text-lg text-white mb-1 uppercase tracking-tight">Sweater Knit</h4>
+<div class="flex justify-between items-center">
+<p class="text-primary font-bold text-lg">$9.200</p>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="bg-surface-dark border-t border-white/5 py-12">
+<div class="max-w-[1440px] mx-auto px-6 lg:px-20">
+<div class="flex flex-col md:flex-row justify-between items-center gap-8 text-center md:text-left">
+<div>
+<h1 class="text-2xl font-black tracking-tighter text-white mb-2">GUEY INDUMENTARIA</h1>
+<p class="text-gray-400 text-sm">Premium Streetwear &amp; Urban Fashion. Córdoba.</p>
+</div>
+<div class="flex items-center gap-6">
+<a class="text-gray-400 hover:text-primary transition-colors flex items-center gap-2" href="#">
+<span class="material-symbols-outlined">camera_alt</span> @gueyindumentaria
+                    </a>
+<a class="text-gray-400 hover:text-whatsapp transition-colors flex items-center gap-2" href="#">
+<span class="material-symbols-outlined">chat</span> WhatsApp
+                    </a>
+</div>
+</div>
+<div class="mt-12 pt-8 border-t border-white/5 text-center text-xs text-gray-600 uppercase tracking-widest">
+                © 2026 Guey Indumentaria. All Rights Reserved.
+            </div>
+</div>
+</footer>
+
+</body></html>

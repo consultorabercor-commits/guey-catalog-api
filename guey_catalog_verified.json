@@ -3,7 +3,7 @@
     "corrected_title": "Buzos Algodón",
     "corrected_description": "Buzos de algodón.",
     "price_type": "VARIABLE",
-    "base_price": 25000,
+    "base_price": 16900,
     "variants": [
       {
         "condition": "1 al 5",
@@ -36,7 +36,7 @@
     "corrected_title": "Solera Seda Fría",
     "corrected_description": "Solera de seda fría.",
     "price_type": "VARIABLE",
-    "base_price": 12900,
+    "base_price": 15900,
     "variants": [
       {
         "condition": "T 3/4/5/6 y corto con bolsillo",
@@ -57,7 +57,7 @@
     "corrected_title": "Chalecos",
     "corrected_description": "Chaleco para todas las ocasiones.",
     "price_type": "Fixed Price",
-    "base_price": 25000,
+    "base_price": 11000,
     "variants": [
       {
         "condition": "2 al 5",
@@ -655,7 +655,7 @@
     "corrected_title": "Pantalón Lanilla",
     "corrected_description": "Pantalón de lanilla.",
     "price_type": "VARIABLE",
-    "base_price": 10900,
+    "base_price": 9900,
     "variants": [
       {
         "condition": "3/5 6 al 10",
@@ -740,7 +740,7 @@
     "corrected_title": "Sudaderas",
     "corrected_description": "Sudadera deportiva.",
     "price_type": "SINGLE",
-    "base_price": 9900,
+    "base_price": 7900,
     "variants": [],
     "image_matches_text": true,
     "mismatch_reason": "",
@@ -1455,7 +1455,7 @@
     "corrected_title": "Poleras Modal",
     "corrected_description": "Polera de modal.",
     "price_type": "VARIABLE",
-    "base_price": 5900,
+    "base_price": 4900,
     "variants": [
       {
         "condition": "2 al 7 x curva",
@@ -1472,7 +1472,7 @@
     "corrected_title": "Campera Jean Especial",
     "corrected_description": "Campera de jean.",
     "price_type": "VARIABLE",
-    "base_price": 25000,
+    "base_price": 29000,
     "variants": [
       {
         "condition": "1 al 5",
@@ -1520,7 +1520,7 @@
     "corrected_title": "Jogger Gabardina Elastizados Cargo",
     "corrected_description": "Jogger de gabardina elastizados estilo cargo.",
     "price_type": "VARIABLE",
-    "base_price": 21900,
+    "base_price": 18900,
     "variants": [
       {
         "condition": "1l5 y 6 al 9",
@@ -1593,7 +1593,7 @@
     "corrected_title": "Babucha Rústica y Friza",
     "corrected_description": "Babucha rústica y friza.",
     "price_type": "VARIABLE",
-    "base_price": 14900,
+    "base_price": 9900,
     "variants": [
       {
         "condition": "1 al 5 x curva x unidad",
@@ -1626,7 +1626,7 @@
     "corrected_title": "Shorts Baño",
     "corrected_description": "Consulte por curva de talles.",
     "price_type": "VARIABLE",
-    "base_price": 9900,
+    "base_price": 5900,
     "variants": [
       {
         "condition": "Curva 1 al 5",
@@ -1646,7 +1646,7 @@
     "corrected_title": "Biker Liso",
     "corrected_description": "Biker liso.",
     "price_type": "VARIABLE",
-    "base_price": 6900,
+    "base_price": 4900,
     "variants": [
       {
         "condition": "1 al 5",
@@ -1745,7 +1745,7 @@
     "corrected_title": "Pantalón Náutico",
     "corrected_description": "Pantalón náutico.",
     "price_type": "VARIABLE",
-    "base_price": 23900,
+    "base_price": 19000,
     "variants": [
       {
         "condition": "1 al 5",
@@ -1949,7 +1949,7 @@
     "corrected_title": "Camperas De Jean",
     "corrected_description": "Campera de jean.",
     "price_type": "VARIABLE",
-    "base_price": 23000,
+    "base_price": 28000,
     "variants": [
       {
         "condition": "Precio máximo",
@@ -1966,7 +1966,7 @@
     "corrected_title": "Calzas Frizadas y Sin Friza",
     "corrected_description": "Calzas disponibles en diferentes talles.",
     "price_type": "VARIABLE",
-    "base_price": 8900,
+    "base_price": 7900,
     "variants": [
       {
         "condition": "1 al 5",
@@ -2003,7 +2003,7 @@
     "corrected_title": "Simil Cuero De Hombre",
     "corrected_description": "Varios modelos.",
     "price_type": "Fixed Price",
-    "base_price": 58000,
+    "base_price": 35000,
     "variants": [],
     "image_matches_text": true,
     "mismatch_reason": "",
@@ -2485,5 +2485,23 @@
     "original_title": "Vestidos especial",
     "image_file": "vestidos_especial.png",
     "image_url": "https://raw.githubusercontent.com/consultorabercor-commits/guey-catalog-api/main/Catalog_Images_Processed/vestidos_especial.png"
+  },
+  {
+    "id": 1772251618932,
+    "original_title": "Paisana fibrana",
+    "corrected_title": "Paisana Fibrana Estampada",
+    "category": "Prendas Superiores",
+    "base_price": 15000,
+    "description": "Paisana de fibrana estampada con variedad de diseños y excelente caída.",
+    "image": "paisana_fibrana.png"
+  },
+  {
+    "id": 1772251618933,
+    "original_title": "Remeron lanilla",
+    "corrected_title": "Remeron Lanilla y Modal Soft",
+    "category": "Prendas Superiores",
+    "base_price": 9900,
+    "description": "Remeron suave talle único en lanilla y modal soft talles 3 al 8.",
+    "image": "remeron_lanilla.png"
   }
 ]
